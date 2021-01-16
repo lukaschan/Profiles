@@ -1,5 +1,7 @@
 #From Tartarus2014, Thanks!
+#https://github.com/Tartarus2014/Loon-Script/blob/master/Plugin/Unlock/Test/TikTokJP.plugin
 #tiktok解锁直播区域限制
+
 (?<=_region=)CN(?=&) url 307 JP
 (?<=&mcc_mnc=)4 url 307 2
 ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+) url 302 $1$3

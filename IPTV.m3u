@@ -17,6 +17,10 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV6
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1 group-title="CCTV Fast",SiTV极速汽车FHD
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="CCTV Fast",SiTV劲爆体育FHD
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1 group-title="CCTV Fast",CCTV7
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV8
@@ -51,6 +55,10 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 group-title="港澳台外",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港澳台外",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 group-title="港澳台外",ViuTVsix
+http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 group-title="港澳台外",澳視葡文
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",澳視衛視
@@ -65,6 +73,8 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 group-title="港澳台外",澳视资讯
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 group-title="港澳台外",CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 #EXTINF:-1 group-title="港澳台外",FOX
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",KBS World50
@@ -245,6 +255,12 @@ http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港澳台外",凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="Movies",SiTV动漫秀场FHD
+http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="Movies",SiTV都市剧场FHD
+http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 group-title="Movies",SiTV欢笑剧场FHD
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="Movies",HBOSignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 group-title="Movies",FOXCRIME
@@ -781,31 +797,3 @@ http://[2001:250:4801::430:89]/hls/hls164.m3u8
 http://[2001:250:4801::430:89]/hls/hls166.m3u8
 #EXTINF:-1 group-title="IPV6" ,卡通剧场HD
 http://[2001:250:4801::430:89]/hls/hls167.m3u8
-#EXTINF:-1 group-title="IPV6" ,动漫秀场
-http://[2001:250:4801::430:89]/hls/hls184a636.m3u8
-#EXTINF:-1 group-title="IPV6" ,游戏风云
-http://[2001:250:4801::430:89]/hls/hls184a637.m3u8
-#EXTINF:-1 group-title="IPV6" ,晴天动画馆
-http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
-#EXTINF:-1 group-title="IPV6" ,CETV-1
-http://[2001:250:4801::430:89]/hls/hls67a45.m3u8
-#EXTINF:-1 group-title="IPV6" ,快乐垂钓
-http://[2001:250:4801::430:89]/hls/hls186a69.m3u8
-#EXTINF:-1 group-title="IPV6" ,茶频道
-http://[2001:250:4801::430:89]/hls/hls186a70.m3u8
-#EXTINF:-1 group-title="IPV6" ,Max极速汽车
-http://[2001:250:4801::430:89]/hls/hls184a94.m3u8
-#EXTINF:-1 group-title="IPV6" ,金色频道
-http://[2001:250:4801::430:89]/hls/hls184a90.m3u8
-#EXTINF:-1 group-title="IPV6" ,都市剧场
-http://[2001:250:4801::430:89]/hls/hls185a95.m3u8
-#EXTINF:-1 group-title="IPV6" ,生活时尚
-http://[2001:250:4801::430:89]/hls/hls184a91.m3u8
-#EXTINF:-1 group-title="IPV6" ,法治天地
-http://[2001:250:4801::430:89]/hls/hls184a89.m3u8
-#EXTINF:-1 group-title="IPV6" ,欢笑剧场
-http://[2001:250:4801::430:89]/hls/hls185a97.m3u8
-#EXTINF:-1 group-title="IPV6" ,辽宁交通广播
-http://[2001:250:4801::430:89]/hls/hls185a641.m3u8
-#EXTINF:-1 group-title="IPV6" ,辽宁经典音乐广播
-http://[2001:250:4801::430:89]/hls/hls185a642.m3u8

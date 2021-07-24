@@ -627,43 +627,43 @@ http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
 #EXTINF:-1 group-title="南京移动"  tvg-id="4K" tvg-logo="4K.png",纯享4K
 http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
-#EXTINF:-1 group-title="IPV6" ,CCTV-1
+#EXTINF:-1 group-title="IPV6" ,CCTV1
 http://[2001:250:4801::430:89]/hls/hls27.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-2
+#EXTINF:-1 group-title="IPV6" ,CCTV2
 http://[2001:250:4801::430:89]/hls/hls135.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-3
+#EXTINF:-1 group-title="IPV6" ,CCTV3
 http://[2001:250:4801::430:89]/hls/hls74a3.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-4
+#EXTINF:-1 group-title="IPV6" ,CCTV4
 http://[2001:250:4801::430:89]/hls/hls4.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-5
+#EXTINF:-1 group-title="IPV6" ,CCTV5
 http://[2001:250:4801::430:89]/hls/hls73a5.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-5+
+#EXTINF:-1 group-title="IPV6" ,CCTV5+
 http://[2001:250:4801::430:89]/hls/hls92.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-6
+#EXTINF:-1 group-title="IPV6" ,CCTV6
 http://[2001:250:4801::430:89]/hls/jlu_cctv6hd.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-7
+#EXTINF:-1 group-title="IPV6" ,CCTV7
 http://[2001:250:4801::430:89]/hls/hls136.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-8
+#EXTINF:-1 group-title="IPV6" ,CCTV8
 http://[2001:250:4801::430:89]/hls/hls72a9.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-9
+#EXTINF:-1 group-title="IPV6" ,CCTV9
 http://[2001:250:4801::430:89]/hls/hls137.m3u8
-#EXTINF:-1 group-title="IPV6" ,CGTN-纪录
+#EXTINF:-1 group-title="IPV6" ,CGTN纪录
 http://[2001:250:4801::430:89]/hls/hls67a43.m3u8
 #EXTINF:-1 group-title="IPV6" ,CGTN
 http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-10
+#EXTINF:-1 group-title="IPV6" ,CCTV10
 http://[2001:250:4801::430:89]/hls/hls138.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-11
+#EXTINF:-1 group-title="IPV6" ,CCTV11
 http://[2001:250:4801::430:89]/hls/hls186a11.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-12
+#EXTINF:-1 group-title="IPV6" ,CCTV12
 http://[2001:250:4801::430:89]/hls/hls139.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-13
+#EXTINF:-1 group-title="IPV6" ,CCTV13
 http://[2001:250:4801::430:89]/hls/hls186a13.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-14
+#EXTINF:-1 group-title="IPV6" ,CCTV14
 http://[2001:250:4801::430:89]/hls/hls140.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-15
+#EXTINF:-1 group-title="IPV6" ,CCTV15
 http://[2001:250:4801::430:89]/hls/hls186a15.m3u8
-#EXTINF:-1 group-title="IPV6" ,CCTV-17
+#EXTINF:-1 group-title="IPV6" ,CCTV17
 http://[2001:250:4801::430:89]/hls/hls185a17.m3u8
 #EXTINF:-1 group-title="IPV6" ,CCTV世界地理
 http://[2001:250:4801::430:89]/hls/hls184a515.m3u8

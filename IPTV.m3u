@@ -55,6 +55,8 @@ http://livetv.dnsfor.me:80/channel.2.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台外",国家地理野生频道
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外",TVBS新闻台
+http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",民视
 http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",民视台湾台
@@ -67,28 +69,8 @@ http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",三立台湾台
 http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS新闻台
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",东森财经新闻台
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",三立新闻台
-http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",三立新闻台
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",中视新闻
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",台视新闻台
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",民视台湾台
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 group-title="港澳台外",民视新闻台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="港澳台外",華視新聞資訊
-http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台外",纬来日本台
 http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",纬来精彩台
@@ -101,8 +83,6 @@ http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",纬来综合台
 http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS新闻台
-http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",FOXSports1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳台外",FOXSports2
@@ -127,6 +107,26 @@ http://159.192.73.198:1072/astro4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",HGTV居家乐活
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外",TVBS新闻台
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",三立新闻台
+http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外",三立新闻台
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",台视新闻台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台外",民视台湾台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="港澳台外",華視新聞資訊
+http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台外",香港開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 group-title="港澳台外",香港C+

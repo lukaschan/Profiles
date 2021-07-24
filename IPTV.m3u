@@ -17,10 +17,6 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV6
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="CCTV Fast",SiTV极速汽车FHD
-http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="CCTV Fast",SiTV劲爆体育FHD
-http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1 group-title="CCTV Fast",CCTV7
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV8
@@ -277,6 +273,10 @@ https://gratismkctv.net/film/hbo.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies",FOXMOVIES
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Moviest",SiTV极速汽车FHD
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="Movies",SiTV劲爆体育FHD
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1 group-title="北京移动",咪咕4K HDR
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
 #EXTINF:-1 group-title="北京移动",北京IPTV4K

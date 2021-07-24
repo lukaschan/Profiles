@@ -175,14 +175,6 @@ http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",天映经典
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",凤凰中文
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="港澳台外",凤凰资讯
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="港澳台外",凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港澳台外",凤凰香港
-http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",HGTV居家乐活
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",TVB 星河台
@@ -235,6 +227,14 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="港澳台外",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 group-title="港澳台外",凤凰中文
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 group-title="港澳台外",凤凰资讯
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="港澳台外",凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1 group-title="港澳台外",凤凰香港
+http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?epg=tvmao-600?回看=http://72ltw.xyz/zcjwx/PLTV/zjhk.php?id=6491.smil
 #EXTINF:-1 group-title="港澳台外",凤凰资讯

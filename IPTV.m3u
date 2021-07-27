@@ -15,6 +15,8 @@ http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/inde
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV4歐洲
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV Fast", CCTV4K
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 group-title="CCTV Fast",CCTV6
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV7
@@ -54,16 +56,20 @@ http://livetv.dnsfor.me:80/channel.3.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="港澳台外",NOW Sport
 http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 group-title="港澳台外",翡翠台J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",RTHK31
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 group-title="港澳台外",RTHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 group-title="港澳台外",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港澳台外",Pearl
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",ViuTV
-http://61.238.6.49:8000/bysid/99
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",ViuTVsix
-http://61.238.6.49:8000/bysid/96
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",澳視衛視
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",澳视澳门
@@ -86,6 +92,8 @@ http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",TVBS欢乐台
 http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外", 中天新聞 HD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台外",中天综合台
 http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",三立台湾台
@@ -186,22 +194,6 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",Astro 双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Luxe TV
-http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Baby TV Eng
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Kids TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",CBeebies
-http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Disney Channel
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Disney Junior
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",BBCWorldNews
@@ -239,12 +231,28 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="港澳台外",凤凰资讯
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Nick Jr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Baby TV
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Kids TV
+http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+#EXTINF:-1 group-title="Kids",CBeebies
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",纬来体育台
 http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",爱尔达体育2
 http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",爱尔达体育3
 http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+#EXTINF:-1 group-title="体育竞技",Luxe TV
+http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",ASTRO SPORT 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",ASTRO SPORT 2
@@ -283,20 +291,24 @@ https://gratismkctv.net/film/hbo.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies",FOXMOVIES
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="北京移动",咪咕4K HDR
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV4K
+#EXTINF:-1 group-title="各地移动",北京IPTV4K
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV淘BABY
+#EXTINF:-1 group-title="各地移动",北京IPTV淘BABY
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV淘剧场
+#EXTINF:-1 group-title="各地移动",北京IPTV淘剧场
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV淘娱乐
+#EXTINF:-1 group-title="各地移动",北京IPTV淘娱乐
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV淘电影
+#EXTINF:-1 group-title="各地移动",北京IPTV淘电影
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 group-title="北京移动",北京IPTV萌宠TV
+#EXTINF:-1 group-title="各地移动",北京IPTV萌宠TV
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 group-title="各地移动", 芒果TV 4K
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 group-title="各地移动", 爱上4K
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 group-title="各地移动",咪咕4K HDR
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV1
 http://111.26.225.22/PLTV/2/224/3221225640/index.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV2

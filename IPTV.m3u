@@ -285,6 +285,8 @@ http://117.169.120.140:8080/live/cctv-3/index.m3u8
 http://117.169.120.140:8080/live/cctv-4/index.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV5
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV5+
+http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV6
 http://117.169.120.140:8080/live/cctv-6/index.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV7
@@ -293,8 +295,22 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV9
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV10
+http://117.169.120.140:8080/live/cctv-10/index.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV11
+http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV12
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTV13
 http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV14
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV15
+http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 group-title="重庆移动",CCTV17
+http://39.134.155.219/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="重庆移动",北京冬奥纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="重庆移动",凤凰中文
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 group-title="重庆移动",凤凰资讯
@@ -369,6 +385,8 @@ http://111.26.225.22/PLTV/2/224/3221225575/index.m3u8
 http://117.169.120.140:8080/live/shanxistv/index.m3u8
 #EXTINF:-1 group-title="重庆移动",NewTV金牌综艺
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 group-title="重庆移动",山东教育
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
 #EXTINF:-1 group-title="重庆移动",兵团卫视
 http://39.134.155.177/PLTV/88888888/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="重庆移动",优漫卡通
@@ -383,26 +401,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227002/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
 #EXTINF:-1 group-title="重庆移动",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="重庆移动",北京冬奥纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV10
-http://117.169.120.140:8080/live/cctv-10/index.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV11
-http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV12
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="重庆移动",山东教育
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV14
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV15
-http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 group-title="重庆移动",CCTVF
 https://livefr.cgtn.com/200f/prog_index.m3u8
-#EXTINF:-1 group-title="重庆移动",中国交通频道
-https://tv.lanjingfm.com/cctbn/chongqing.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV5+
-http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 group-title="重庆移动",NewTV军事评论
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 group-title="重庆移动",新疆卫视
@@ -413,8 +413,6 @@ http://117.169.120.142:8080/live/xizangstv/index.m3u8
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 group-title="重庆移动",NewTV动作电影
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="重庆移动",CCTV17
-http://39.134.155.219/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="重庆移动",重庆卫视
 http://39.134.155.149/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="重庆移动",重庆新闻

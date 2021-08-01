@@ -9,10 +9,6 @@ http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8
 #http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV4
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="CCTV Fast",CCTV4美洲
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="CCTV Fast",CCTV4欧洲
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV5
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV5+
@@ -20,6 +16,10 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 #http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV Fast", CCTV4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1 group-title="CCTV Fast",CCTV4美洲
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
+#EXTINF:-1 group-title="CCTV Fast",CCTV4欧洲
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV6
 http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
@@ -57,14 +57,16 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 group-title="港澳台外",翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",無綫新聞台
+#EXTINF:-1 group-title="港澳台外",无线新闻台
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 group-title="港澳台外",无线新闻台 SD
+http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="港澳台外",J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",無綫財經·資訊台
+#EXTINF:-1 group-title="港澳台外",无线财经资讯台
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 group-title="港澳台外",无线财经资讯台 SD
+http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 group-title="港澳台外",明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",Viu TV

@@ -62,11 +62,11 @@ http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",无线新闻台
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",无线新闻台 720P
-http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8 
+#http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8 
 #EXTINF:-1 group-title="港澳台外",无线新闻台 SD
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 group-title="港澳台外",有线新闻台 720P
-http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",无线财经资讯台

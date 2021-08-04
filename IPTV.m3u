@@ -57,10 +57,16 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 group-title="港澳台外",翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外",翡翠台 720P
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",无线新闻台
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1 group-title="港澳台外",无线新闻台 720P
+http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8 
 #EXTINF:-1 group-title="港澳台外",无线新闻台 SD
 http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 group-title="港澳台外",有线新闻台 720P
+http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",无线财经资讯台
@@ -79,6 +85,8 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="港澳台外",NOW新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="港澳台外",Astor AOD  
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8 
 #EXTINF:-1 group-title="港澳台外",RTHK31
 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.1.m3u8
@@ -235,14 +243,11 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 
 #EXTINF:-1 group-title="体育竞技",ELTA奧運1台
-http://198.16.106.62:8278/streams/d/elta_olymp1/playlist.m3u8
-#rtmp://59.124.75.153/sat/md011
+rtmp://59.124.75.153/sat/md011
 #EXTINF:-1 group-title="体育竞技",ELTA奧運2台
-http://198.16.106.62:8278/streams/d/elta_olymp2/playlist.m3u8
-#rtmp://59.124.75.153/sat/md021
+rtmp://59.124.75.153/sat/md021
 #EXTINF:-1 group-title="体育竞技",ELTA奧運3台
-http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
-#rtmp://59.124.75.153/sat/md031
+rtmp://59.124.75.153/sat/md031
 #EXTINF:-1 group-title="体育竞技",ELTA體育1台 4K
 rtmp://59.124.75.153/sat/md041
 #EXTINF:-1 group-title="体育竞技",ELTA體育3台

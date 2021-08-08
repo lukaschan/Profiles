@@ -16,6 +16,9 @@ http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV Fast", CCTV4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1 group-title="CCTV Fast",CCTV13
+http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
+#http://39.134.216.5/mgsp.live.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV4美洲
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV4欧洲
@@ -36,9 +39,6 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/in
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV12
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="CCTV Fast",CCTV13
-http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
-#http://39.134.216.5/mgsp.live.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV14
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="CCTV Fast",CCTV15

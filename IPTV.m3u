@@ -114,7 +114,8 @@ http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",澳门资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",TVBS新闻台
-http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@YTlive/tvbsnews.m3u8
+#http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",民视
 http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",民视台湾台
@@ -159,8 +160,6 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",HGTV居家乐活
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS新闻台
-#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台外",香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港澳台外",香港卫视文旅
@@ -193,6 +192,8 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="港澳台外",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 group-title="港澳台外",Olympic Channel
+https://www.navchina.cf/IPTV/Olympics.php
 #EXTINF:-1 group-title="港澳台外",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",Sony One50
@@ -242,12 +243,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #EXTINF:-1 group-title="港澳台外",凤凰资讯
 #http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 
-#EXTINF:-1 group-title="体育竞技",ELTA奧運1台
-rtmp://59.124.75.153/sat/md011
-#EXTINF:-1 group-title="体育竞技",ELTA奧運2台
-rtmp://59.124.75.153/sat/md021
-#EXTINF:-1 group-title="体育竞技",ELTA奧運3台
-rtmp://59.124.75.153/sat/md031
 #EXTINF:-1 group-title="体育竞技",ELTA體育1台 4K
 rtmp://59.124.75.153/sat/md041
 #EXTINF:-1 group-title="体育竞技",ELTA體育3台
@@ -268,16 +263,8 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 group-title="体育竞技",ASTRO SPORT 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",有線奧運601台
-https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
-#EXTINF:-1 group-title="体育竞技",有線奧運602台
-https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
 #EXTINF:-1 group-title="体育竞技",有線高清603台
-https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
-#EXTINF:-1 group-title="体育竞技",有線奧運604台
-https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
-#EXTINF:-1 group-title="体育竞技",有線奧運605台
-https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
+http://45.11.92.252/luck/940049/13
 #EXTINF:-1 group-title="体育竞技",魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育竞技",五星体育

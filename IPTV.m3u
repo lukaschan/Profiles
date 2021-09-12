@@ -2,19 +2,19 @@
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2
-http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV4
-http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+
-http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV", CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV13
-http://hdtv.haust.edu.cn/hls/jlu_cctv13.m3u8
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CGTN.png" group-title="CCTV",CGTN

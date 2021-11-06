@@ -125,7 +125,7 @@ http://192.168.2.252:7788/rtp/239.77.0.180:5146
 http://192.168.2.252:7788/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="粤市",广东卫视
 http://192.168.2.252:7788/rtp/239.77.0.166:5146
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粤市",珠江频道
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粤市",广东珠江
 http://192.168.2.252:7788/rtp/239.77.0.114:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="粤市",经济科教
 http://192.168.2.252:7788/rtp/239.77.0.85:5146

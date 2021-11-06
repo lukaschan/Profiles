@@ -16,15 +16,15 @@ https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="港澳",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="央卫",CCTV1
-http://192.168.2.252:7788/rtp/239.77.0.129:5146
+http://192.168.2.252:7788/rtp/239.77.0.86:5146
 #EXTINF:-1 group-title="央卫",CCTV2
 http://192.168.2.252:7788/rtp/239.77.0.137:5146
 #EXTINF:-1 group-title="央卫",CCTV3
-http://192.168.2.252:7788/rtp/239.77.0.175:5146
+http://192.168.2.252:7788/rtp/239.77.0.169:5146
 #EXTINF:-1 group-title="央卫",CCTV4
 http://192.168.2.252:7788/rtp/239.77.1.166:5146
 #EXTINF:-1 group-title="央卫",CCTV5
-http://192.168.2.252:7788/rtp/239.77.0.177:5146
+http://192.168.2.252:7788/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央卫",CCTV5+
 http://192.168.2.252:7788/rtp/239.77.0.87:5146
 #EXTINF:-1 group-title="央卫",广东体育
@@ -32,17 +32,17 @@ http://192.168.2.252:7788/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="央卫",深圳体育
 http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1 group-title="央卫",CCTV16
-http://192.168.2.252:7788/rtp/239.77.0.165:5146
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 group-title="央卫",CCTV13
 http://192.168.2.252:7788/rtp/239.253.43.196:5146
 #EXTINF:-1 group-title="央卫",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="央卫",CCTV6
-http://192.168.2.252:7788/rtp/239.77.0.178:5146
+http://192.168.2.252:7788/rtp/239.77.0.170:5146
 #EXTINF:-1 group-title="央卫",CCTV7
 http://192.168.2.252:7788/rtp/239.77.0.138:5146
 #EXTINF:-1 group-title="央卫",CCTV8
-http://192.168.2.252:7788/rtp/239.77.0.181:5146
+http://192.168.2.252:7788/rtp/239.77.0.172:5146
 #EXTINF:-1 group-title="央卫",CCTV9
 http://192.168.2.252:7788/rtp/239.77.0.135:5146
 #EXTINF:-1 group-title="央卫",CCTV10
@@ -51,8 +51,6 @@ http://192.168.2.252:7788/rtp/239.77.0.134:5146
 http://192.168.2.252:7788/rtp/239.77.1.238:5146
 #EXTINF:-1 group-title="央卫",CCTV12
 http://192.168.2.252:7788/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="央卫",CCTV14
-http://192.168.2.252:7788/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="央卫",CCTV15
 http://192.168.2.252:7788/rtp/239.77.1.239:5146
 #EXTINF:-1 group-title="央卫",CCTV17
@@ -72,9 +70,9 @@ http://192.168.2.252:7788/rtp/239.77.0.98:5146
 #EXTINF:-1 group-title="央卫",湖南卫视
 http://192.168.2.252:7788/rtp/239.77.0.127:5146
 #EXTINF:-1 group-title="央卫",浙江卫视
-http://192.168.2.252:7788/rtp/239.77.0.125:5146
+http://192.168.2.252:7788/rtp/239.77.0.89:5146
 #EXTINF:-1 group-title="央卫",江苏卫视
-http://192.168.2.252:7788/rtp/239.77.0.126:5146
+http://192.168.2.252:7788/rtp/239.77.0.90:5146
 #EXTINF:-1 group-title="央卫",深圳卫视
 http://192.168.2.252:7788/rtp/239.77.0.130:5146
 #EXTINF:-1 group-title="央卫",黑龙江卫视
@@ -90,7 +88,7 @@ http://192.168.2.252:7788/rtp/239.77.0.128:5146
 #EXTINF:-1 group-title="央卫",天津卫视
 http://192.168.2.252:7788/rtp/239.77.0.131:5146
 #EXTINF:-1 group-title="央卫",山东卫视
-http://192.168.2.252:7788/rtp/239.77.0.132:5146
+http://192.168.2.252:7788/rtp/239.77.0.94:5146
 #EXTINF:-1 group-title="央卫",东南卫视
 http://192.168.2.252:7788/rtp/239.77.0.146:5146
 #EXTINF:-1 group-title="央卫",上海纪实
@@ -104,11 +102,11 @@ http://192.168.2.252:7788/rtp/239.77.0.189:5146
 #EXTINF:-1 group-title="央卫",吉林卫视
 http://192.168.2.252:7788/rtp/239.77.0.150:5146
 #EXTINF:-1 group-title="央卫",辽宁卫视
-http://192.168.2.252:7788/rtp/239.77.0.161:5146
+http://192.168.2.252:7788/rtp/239.77.0.123:5146
 #EXTINF:-1 group-title="央卫",金鹰纪实
-http://192.168.2.252:7788/rtp/239.77.0.162:5146
+http://192.168.2.252:7788/rtp/239.77.0.160:5146
 #EXTINF:-1 group-title="央卫",四川卫视
-http://192.168.2.252:7788/rtp/239.77.0.163:5146
+http://192.168.2.252:7788/rtp/239.77.0.159:5146
 #EXTINF:-1 group-title="央卫",海南卫视
 http://192.168.2.252:7788/rtp/239.253.43.35:5146
 #EXTINF:-1 group-title="央卫",广西卫视
@@ -237,12 +235,12 @@ http://192.168.2.252:7788/rtp/239.77.0.164:5146
 http://192.168.2.252:7788/rtp/239.77.1.244:5146
 #EXTINF:-1 group-title="少儿",广东少儿
 http://192.168.2.252:7788/rtp/239.77.0.250:5146
+#EXTINF:-1 group-title="少儿",CCTV14
+http://192.168.2.252:7788/rtp/239.77.0.133:5146
 #EXTINF:-1 group-title="文娱",CHC电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
 #EXTINF:-1 group-title="文娱",极k影视
 http://192.168.2.252:7788/rtp/239.253.43.218:5146
-#EXTINF:-1 group-title="文娱",爱上4K
-http://192.168.2.252:7788/rtp/239.253.43.219:5146
 #EXTINF:-1 group-title="文娱",极K精选
 http://192.168.2.252:7788/rtp/239.77.0.231:5146
 #EXTINF:-1 group-title="文娱",精选4k

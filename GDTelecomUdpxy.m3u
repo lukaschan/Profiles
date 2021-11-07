@@ -57,6 +57,20 @@ http://192.168.2.252:7788/rtp/239.77.1.121:5146
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="央卫",广东珠江
 http://192.168.2.252:7788/rtp/239.77.0.114:5146
+#EXTINF:-1 group-title="央卫",广州综合
+http://192.168.2.251:7789/gzbn.php?get_channel=general
+#EXTINF:-1 group-title="央卫",广州新闻
+http://192.168.2.251:7789/gzbn.php?get_channel=news
+#EXTINF:-1 group-title="央卫",广州影视
+http://192.168.2.251:7789/gzbn.php?get_channel=drama
+#EXTINF:-1 group-title="央卫",广州竞赛
+http://192.168.2.251:7789/gzbn.php?get_channel=sport
+#EXTINF:-1 group-title="央卫",广州法治
+http://192.168.2.251:7789/gzbn.php?get_channel=legal
+#EXTINF:-1 group-title="央卫",南国都市
+http://192.168.2.251:7789/gzbn.php?get_channel=uhd
+#EXTINF:-1 group-title="央卫",广东新闻
+http://192.168.2.252:7788/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫",北京卫视
 http://192.168.2.252:7788/rtp/239.77.1.151:5146
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="央卫",BTV冬奥纪实
@@ -73,14 +87,12 @@ http://192.168.2.252:7788/rtp/239.77.0.90:5146
 http://192.168.2.252:7788/rtp/239.77.0.130:5146
 #EXTINF:-1 group-title="央卫",广东综艺4k
 http://192.168.2.252:7788/rtp/239.77.1.237:5146
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央卫",广东卫视
-http://192.168.2.252:7788/rtp/239.77.0.166:5146
-#EXTINF:-1 group-title="央卫",广东新闻
-http://192.168.2.252:7788/rtp/239.77.0.173:5146
-#EXTINF:-1 group-title="央卫",经济科教
-http://192.168.2.252:7788/rtp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="央卫",南方卫视
 http://192.168.2.252:7788/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央卫",广东卫视
+http://192.168.2.252:7788/rtp/239.77.0.166:5146
+#EXTINF:-1 group-title="央卫",经济科教
+http://192.168.2.252:7788/rtp/239.77.0.85:5146
 #EXTINF:-1 group-title="央卫",广东影视
 http://192.168.2.252:7788/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="央卫",广东公共

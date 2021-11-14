@@ -12,25 +12,20 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-
 #EXTINF:-1 group-title="主力",TVBS新闻
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/tvbsnews.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/tvbsnews.m3u8
 #EXTINF:-1 group-title="主力",寰宇新闻
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/hyxw.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/hyxw.m3u8
 #EXTINF:-1 group-title="主力",国会频道1
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/parliamentarytv1.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv1.m3u8
 #EXTINF:-1 group-title="主力",国会频道2
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/parliamentarytv2.m3u8
-#EXTINF:-1 group-title="主力",DW TV
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/DW.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv2.m3u8
 #EXTINF:-1 group-title="主力",ABC TV
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcus.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 group-title="主力",Aljazeera TV
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/aljazeera.m3u8
-#EXTINF:-1 group-title="主力",Euronews
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/euronews.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
 #EXTINF:-1 group-title="主力",France24
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/france24.m3u8
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/france24.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
 http://192.168.2.252:7788/rtp/239.77.1.144:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV2
@@ -249,8 +244,6 @@ http://192.168.2.252:7788/rtp/239.77.1.130:5146
 http://192.168.2.252:7788/rtp/239.77.1.131:5146
 #EXTINF:-1 group-title="粤市",汕头文化体育
 http://192.168.2.252:7788/rtp/239.77.1.132:5146
-#EXTINF:-1 group-title="少儿",EBCYOYO
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/ebcyoyo.m3u8
 #EXTINF:-1 group-title="少儿",深圳少儿
 http://192.168.2.252:7788/rtp/239.77.1.244:5146
 #EXTINF:-1 group-title="少儿",广东少儿
@@ -261,6 +254,8 @@ http://192.168.2.252:7788/rtp/239.77.1.161:5146
 http://192.168.2.252:7788/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
 http://192.168.2.252:7788/rtp/239.77.0.164:5146
+#EXTINF:-1 group-title="少儿",EBCYOYO
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/ebcyoyo.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="少儿",CETV早期教育
 http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="文娱",CHC电影

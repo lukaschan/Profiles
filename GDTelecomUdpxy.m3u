@@ -11,13 +11,13 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-group-title="主力",TVBS新闻
+#EXTINF:-1 group-title="主力",TVBS新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/tvbsnews.m3u8
-group-title="主力",寰宇新闻
+#EXTINF:-1 group-title="主力",寰宇新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/hyxw.m3u8
-group-title="主力",国会频道1
+#EXTINF:-1 group-title="主力",国会频道1
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/parliamentarytv1.m3u8
-group-title="主力",国会频道2
+#EXTINF:-1 group-title="主力",国会频道2
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/parliamentarytv2.m3u8
 #EXTINF:-1 group-title="主力",DW TV
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/DW.m3u8

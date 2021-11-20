@@ -253,8 +253,6 @@ http://192.168.2.252:7788/rtp/239.77.1.161:5146
 http://192.168.2.252:7788/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
 http://192.168.2.252:7788/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="少儿",EBCYOYO
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/ebcyoyo.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="少儿",CETV早期教育
 http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="文娱",CHC电影

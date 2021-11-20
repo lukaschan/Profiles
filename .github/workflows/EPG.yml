@@ -33,7 +33,7 @@ jobs:
     - name: Merge EPG
       run: |
         cd .wg++
-        tv_cat e.xml epg.xml > guide_merge.xml
+        tv_cat e.xml epg.xml > merge.xml
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:

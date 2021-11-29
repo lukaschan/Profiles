@@ -33,6 +33,10 @@ http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力", 中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="主力", Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="主力",ABC
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
 http://192.168.2.252:7788/rtp/239.77.1.144:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV2
@@ -75,8 +79,6 @@ http://192.168.2.252:7788/rtp/239.77.1.109:5146
 http://192.168.2.252:7788/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="主力",CCTV17
 http://192.168.2.252:7788/rtp/239.77.1.121:5146
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="主力", Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="主力",CGTN
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="主力",CGTN纪录
@@ -161,8 +163,6 @@ https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/hyxw.m3u8
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv1.m3u8
 #EXTINF:-1 group-title="主力",国会频道2
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv2.m3u8
-#EXTINF:-1 group-title="主力",ABC TV
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 group-title="主力",Aljazeera TV
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
 #EXTINF:-1 group-title="主力",France24

@@ -54,7 +54,7 @@ http://192.168.2.252:7788/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="主力",深圳体育
 http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
-http://192.168.2.252:7788/rtp/239.77.0.233:5146
+http://192.168.2.252:7788/rtp/239.77.0.232:5146
 #http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1  tvg-name="CCTV16" group-title="主力",CCTV16 HD
 http://192.168.2.252:7788/rtp/239.77.0.165:5146

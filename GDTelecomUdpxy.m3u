@@ -6,10 +6,10 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="主力",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
-#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
-#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/TDMOuMun.png" group-title="主力", 澳視澳門
 http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -139,29 +139,29 @@ http://192.168.2.252:7788/rtp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="主力",江苏卫视
 http://192.168.2.252:7788/rtp/239.77.0.90:5146
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="主力", Pearl
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="主力", 翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="主力", J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="主力", ViuTVsix
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力", ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力", 港台電視31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-31/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力", 港台電視32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-32/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/RTHK33.png" group-title="主力", 港台電視33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+http://hk.woaixbw.ml:8080/channels/tv-33/playlist.m3u8
 #EXTINF:-1 group-title="主力",TVBS新闻
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/tvbsnews.m3u8
 #EXTINF:-1 group-title="主力",寰宇新闻

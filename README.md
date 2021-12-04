@@ -10,6 +10,8 @@ tiktok解锁直播区域限制，17.9.0以上版本食用
 
 https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml
 
+https://epg.112114.xyz/pp.xml
+
 
 http://epg.51zmt.top:8000/e.xml
 

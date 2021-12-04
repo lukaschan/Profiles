@@ -156,6 +156,12 @@ http://192.168.2.252:7788/rtp/239.77.0.127:5146
 http://192.168.2.252:7788/rtp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="主力",江苏卫视
 http://192.168.2.252:7788/rtp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
+#http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
+#http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
+http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 group-title="主力",TVBS新闻
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/tvbsnews.m3u8
 #EXTINF:-1 group-title="主力",寰宇新闻

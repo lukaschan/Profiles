@@ -11,7 +11,7 @@ http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
 http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-logo="epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="主力", 明珠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="主力", 明珠台
 http://hk.woaixbw.ml:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="主力", 翡翠台
 http://hk.woaixbw.ml:8080/channels/tv-81/playlist.m3u8

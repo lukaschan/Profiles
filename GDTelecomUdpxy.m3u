@@ -11,7 +11,7 @@ http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
 http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="主力", Pearl
+#EXTINF:-1 tvg-logo="epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="主力", 明珠台
 http://hk.woaixbw.ml:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="主力", 翡翠台
 http://hk.woaixbw.ml:8080/channels/tv-81/playlist.m3u8
@@ -56,9 +56,9 @@ http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
 http://192.168.2.252:7788/rtp/239.77.0.232:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4KHD
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1  tvg-name="CCTV16" group-title="主力",CCTV16 HD
-http://192.168.2.252:7788/rtp/239.77.0.165:5146
+#http://192.168.2.252:7788/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
 http://192.168.2.252:7788/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K
@@ -83,7 +83,7 @@ http://192.168.2.252:7788/rtp/239.77.1.239:5146
 http://192.168.2.252:7788/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="主力",CGTN
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="主力",CGTN纪录
+#EXTINF:-1 tvg-name="CGTNDocumentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="主力",CGTN纪录
 http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="主力",探索频道
 http://hdtv.haust.edu.cn/hls/discovery.m3u8
@@ -91,7 +91,7 @@ http://hdtv.haust.edu.cn/hls/discovery.m3u8
 http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 group-title="主力",星空卫视体育台
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
+#EXTINF:-1 tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
 http://192.168.2.252:7788/rtp/239.77.0.114:5146
 #EXTINF:-1 group-title="主力",广州综合
 http://192.168.2.251:7789/gzbn.php?get_channel=general

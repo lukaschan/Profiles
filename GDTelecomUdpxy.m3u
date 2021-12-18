@@ -53,8 +53,6 @@ http://192.168.2.252:7788/rtp/239.77.0.170:5146
 http://192.168.2.252:7788/rtp/239.77.1.31:5146
 #EXTINF:-1 group-title="主力",广东体育
 http://192.168.2.252:7788/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="主力",深圳体育
-http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
 http://192.168.2.252:7788/rtp/239.77.0.232:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4KHD
@@ -111,6 +109,12 @@ http://192.168.2.251:7789/gzbn.php?get_channel=uhd
 http://192.168.2.252:7788/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="主力",广东综艺4k
 http://192.168.2.252:7788/rtp/239.77.1.237:5146
+#EXTINF:-1 group-title="主力",极k影视4k
+http://192.168.2.252:7788/rtp/239.253.43.218:5146
+#EXTINF:-1 group-title="主力",极K精选4k
+http://192.168.2.252:7788/rtp/239.77.0.231:5146
+#EXTINF:-1 group-title="主力",求索生活
+http://192.168.2.252:7788/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",南方卫视
 http://192.168.2.252:7788/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视
@@ -139,6 +143,8 @@ http://192.168.2.252:7788/rtp/239.253.43.57:5146
 http://192.168.2.252:7788/rtp/239.77.0.130:5146
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主力",北京卫视
 http://192.168.2.252:7788/rtp/239.77.1.151:5146
+#EXTINF:-1 group-title="主力",深圳体育
+http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="主力",北京文艺
 http://hdtv.haust.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="主力",北京科教
@@ -323,12 +329,6 @@ http://192.168.2.252:7788/rtp/239.77.0.27:5146
 http://hdtv.haust.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭影院
 http://hdtv.haust.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 group-title="文娱",极k影视
-http://192.168.2.252:7788/rtp/239.253.43.218:5146
-#EXTINF:-1 group-title="文娱",极K精选
-http://192.168.2.252:7788/rtp/239.77.0.231:5146
-#EXTINF:-1 group-title="文娱",精选4k
-http://192.168.2.252:7788/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

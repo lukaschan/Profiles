@@ -50,7 +50,7 @@ http://192.168.2.252:7788/rtp/239.77.1.166:5146
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主力",CCTV5
 http://192.168.2.252:7788/rtp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="主力",CCTV5+
-http://192.168.2.252:7788/rtp/239.77.0.87:5146
+http://192.168.2.252:7788/rtp/239.77.1.31:5146
 #EXTINF:-1 group-title="主力",广东体育
 http://192.168.2.252:7788/rtp/239.77.0.168:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K

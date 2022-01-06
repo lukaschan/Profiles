@@ -11,7 +11,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV16
+#EXTINF:-1 group-title="CCTV",CCTV16 4K
+http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16 HD
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV", CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -46,13 +48,13 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 group-title="CCTV",CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主力",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主力",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 group-title="港澳台外",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 group-title="港澳台外",翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 group-title="港澳台外",翡翠台 720P

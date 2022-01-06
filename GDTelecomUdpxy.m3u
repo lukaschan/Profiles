@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主力",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主力",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="主力",凤凰香港
-#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
 http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.10.m3u8

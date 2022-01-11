@@ -6,7 +6,7 @@ http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="主力",凤凰香港
-http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+http://183.207.249.208/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
 http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
 #http://livetv.dnsfor.me:80/channel.10.m3u8
@@ -29,14 +29,10 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://hk.woaixbw.ml:8080/channels/tv-31/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力", 港台電視32
 http://hk.woaixbw.ml:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/RTHK33.png" group-title="主力", 港台電視33
-http://hk.woaixbw.ml:8080/channels/tv-33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/TDMOuMun.png" group-title="主力", 澳視澳門
 http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力", 中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="主力", Fox News
-#http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="主力",ABC
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
@@ -53,7 +49,7 @@ http://192.168.2.252:7788/rtp/239.77.0.170:5146
 http://192.168.2.252:7788/rtp/239.77.1.31:5146
 #EXTINF:-1 group-title="主力",广东体育
 http://192.168.2.252:7788/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="主力",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="主力",北京冬奥
 http://192.168.2.252:7788/rtp/239.77.1.110:5146
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
 http://192.168.2.252:7788/rtp/239.77.1.98:5146
@@ -87,14 +83,6 @@ http://192.168.2.252:7788/rtp/239.77.1.239:5146
 http://192.168.2.252:7788/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="主力",CGTN
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
-#EXTINF:-1 tvg-name="CGTNDocumentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="主力",CGTN纪录
-http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="主力",探索频道
-http://hdtv.haust.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="主力",国家地理
-http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 group-title="主力",星空卫视体育台
-http://hdtv.haust.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
 http://192.168.2.252:7788/rtp/239.77.0.114:5146
 #EXTINF:-1 group-title="主力",广州综合
@@ -113,56 +101,30 @@ http://192.168.2.251:7789/gzbn.php?get_channel=uhd
 http://192.168.2.252:7788/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="主力",广东综艺4k
 http://192.168.2.252:7788/rtp/239.77.1.237:5146
-#EXTINF:-1 group-title="主力",极k影视4k
-#http://192.168.2.252:7788/rtp/239.253.43.218:5146
-#EXTINF:-1 group-title="主力",极K精选4k
-#http://192.168.2.252:7788/rtp/239.77.0.231:5146
+#EXTINF:-1 group-title="主力",纯享4k
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="主力",爱上4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="主力",SiTV欢笑剧场4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 group-title="主力",求索生活
 http://192.168.2.252:7788/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",南方卫视
 http://192.168.2.252:7788/rtp/239.77.0.215:5146
+#EXTINF:-1 group-title="主力",深圳体育
+http://192.168.2.252:7788/rtp/239.77.1.128:5146==
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视
 http://192.168.2.252:7788/rtp/239.77.0.166:5146
-#EXTINF:-1 group-title="主力",岭南戏曲
-#http://192.168.2.251:7789/gdtv.php?id=15
 #EXTINF:-1 group-title="主力",经济科教
 http://192.168.2.252:7788/rtp/239.77.0.85:5146
 #EXTINF:-1 group-title="主力",广东影视
 http://192.168.2.252:7788/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="主力",广东公共
 http://192.168.2.252:7788/rtp/239.77.0.225:5146
-#EXTINF:-1 group-title="主力",广东房产
-#http://192.168.2.251:7789/gdtv.php?id=67
-#EXTINF:-1 group-title="主力",佛山公共
-http://192.168.2.252:7788/rtp/239.253.43.53:5146
-#EXTINF:-1 group-title="主力",佛山南海
-http://192.168.2.252:7788/rtp/239.253.43.54:5146
-#EXTINF:-1 group-title="主力",佛山顺德
-http://192.168.2.252:7788/rtp/239.253.43.55:5146
-#EXTINF:-1 group-title="主力",佛山影视
-http://192.168.2.252:7788/rtp/239.253.43.56:5146
-#EXTINF:-1 group-title="主力",佛山综合
-http://192.168.2.252:7788/rtp/239.253.43.57:5146
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="主力",深圳卫视
 http://192.168.2.252:7788/rtp/239.77.0.130:5146
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主力",北京卫视
 http://192.168.2.252:7788/rtp/239.77.1.151:5146
-#EXTINF:-1 group-title="主力",深圳体育
-http://192.168.2.252:7788/rtp/239.77.1.128:5146
-#EXTINF:-1 tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="主力",北京文艺
-http://hdtv.haust.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="主力",北京科教
-http://hdtv.haust.edu.cn/hls/btv3hd.m3u8
-#EXTINF:-1 tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="主力",北京影视
-http://hdtv.haust.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="主力",北京财经
-http://hdtv.haust.edu.cn/hls/btv5hd.m3u8
-#EXTINF:-1 tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="主力",北京生活
-http://hdtv.haust.edu.cn/hls/btv7hd.m3u8
-#EXTINF:-1 tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="主力",北京青年
-http://hdtv.haust.edu.cn/hls/btv8hd.m3u8
-#EXTINF:-1 tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="主力",北京新闻
-http://hdtv.haust.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="主力",东方卫视
 http://192.168.2.252:7788/rtp/239.77.0.98:5146
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="主力",湖南卫视
@@ -171,24 +133,6 @@ http://192.168.2.252:7788/rtp/239.77.0.127:5146
 http://192.168.2.252:7788/rtp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="主力",江苏卫视
 http://192.168.2.252:7788/rtp/239.77.0.90:5146
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
-#http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
-#http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="主力",TVBS新闻
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/tvbsnews.m3u8
-#EXTINF:-1 group-title="主力",寰宇新闻
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/hyxw.m3u8
-#EXTINF:-1 group-title="主力",国会频道1
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv1.m3u8
-#EXTINF:-1 group-title="主力",国会频道2
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv2.m3u8
-#EXTINF:-1 group-title="主力",Aljazeera TV
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
-#EXTINF:-1 group-title="主力",France24
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/france24.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="主力",黑龙江卫视
 http://192.168.2.252:7788/rtp/239.77.0.124:5146
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="主力",重庆卫视
@@ -237,6 +181,34 @@ http://192.168.2.252:7788/rtp/239.77.0.200:5146
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 group-title="主力",CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
+#http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
+#http://hk.woaixbw.ml:8080/channels/tv-85/playlist.m3u8
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 group-title="主力",TVBS新闻
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/tvbsnews.m3u8
+#EXTINF:-1 group-title="主力",寰宇新闻
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/hyxw.m3u8
+#EXTINF:-1 group-title="主力",国会频道1
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv1.m3u8
+#EXTINF:-1 group-title="主力",国会频道2
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv2.m3u8
+#EXTINF:-1 group-title="主力",Aljazeera TV
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
+#EXTINF:-1 group-title="主力",France24
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/france24.m3u8
+#EXTINF:-1 group-title="粤市",佛山公共
+http://192.168.2.252:7788/rtp/239.253.43.53:5146
+#EXTINF:-1 group-title="粤市",佛山南海
+http://192.168.2.252:7788/rtp/239.253.43.54:5146
+#EXTINF:-1 group-title="粤市",佛山顺德
+http://192.168.2.252:7788/rtp/239.253.43.55:5146
+#EXTINF:-1 group-title="粤市",佛山影视
+http://192.168.2.252:7788/rtp/239.253.43.56:5146
+#EXTINF:-1 group-title="粤市",佛山综合
+http://192.168.2.252:7788/rtp/239.253.43.57:5146
 #EXTINF:-1 group-title="粤市",深圳都市
 http://192.168.2.252:7788/rtp/239.77.1.176:5146
 #EXTINF:-1 group-title="粤市",深圳电视剧
@@ -328,9 +300,9 @@ http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="文娱",CHC电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
-http://hdtv.haust.edu.cn/hls/chcatv.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭影院
-http://hdtv.haust.edu.cn/hls/chctv.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

@@ -33,6 +33,10 @@ http://hk.woaixbw.ml:8080/channels/tv-32/playlist.m3u8
 http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力", 中天新闻台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="主力",Aljazeera TV
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
+#EXTINF:-1 group-title="主力",Bloomberg
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/Bloomberg.m3u8
 #EXTINF:-1 group-title="主力",ABC
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
@@ -191,8 +195,6 @@ https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/hyxw.m3u8
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv1.m3u8
 #EXTINF:-1 group-title="主力",国会频道2
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/parliamentarytv2.m3u8
-#EXTINF:-1 group-title="主力",Aljazeera TV
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
 #EXTINF:-1 group-title="主力",France24
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/france24.m3u8
 #EXTINF:-1 group-title="粤市",佛山公共

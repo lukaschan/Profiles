@@ -63,9 +63,9 @@ http://192.168.2.252:7788/rtp/239.77.1.98:5146
 #http://192.168.2.252:7788/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
 http://192.168.2.252:7788/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="纯享4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",纯享4K
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4KHD
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="主力",CCTV6
 http://192.168.2.252:7788/rtp/239.77.0.171:5146
@@ -297,10 +297,6 @@ http://192.168.2.252:7788/rtp/239.77.0.164:5146
 http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 group-title="文娱",CHC电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

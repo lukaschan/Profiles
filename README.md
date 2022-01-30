@@ -18,3 +18,5 @@ http://epg.51zmt.top:8000/e.xml
 https://raw.githubusercontent.com/lukaschan/Profiles/main/GDTelecomUdpxy.m3u
 
 https://raw.githubusercontent.com/lukaschan/Profiles/main/IPTV.m3u
+
+https://cdn.jsdelivr.net/gh/lukaschan/Profiles@main/IPTV.m3u

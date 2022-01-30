@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2
+#EXTINF:-1 group-title="CCTV",CCTV 2
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228094/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4
+#EXTINF:-1 group-title="CCTV",CCTV 4
 http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228142/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -33,7 +33,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV10
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV11
+#EXTINF:-1 group-title="CCTV",CCTV 11
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV12
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8

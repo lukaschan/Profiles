@@ -1,721 +1,192 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="CCTV",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主力",凤凰中文
 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="CCTV",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主力",凤凰资讯
 #http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 group-title="CCTV",凤凰香港
+#EXTINF:-1 group-title="主力",凤凰香港
 http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228094/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228142/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV16 4K
+#EXTINF:-1 group-title="主力",深圳卫视
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV1
+http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV2
+http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV3
+http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221228188/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV4
+http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV5
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228173/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV5+
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="主力",CCTV16 4K
 http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV16 HD
+#EXTINF:-1 tvg-name="CCTV16" group-title="主力",CCTV16 HD
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV", CCTV4K
+#EXTINF:-1 group-title="主力",北京冬奥纪实
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力", CCTV4K
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力", CCTV4K HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CGTN.png" group-title="CCTV",CGTN
-http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
-#EXTINF:-1 tvg-name="CGTNDocumentary" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CGTN%20Documentary.png" group-title="CCTV",CGTN 纪录
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV11
+#EXTINF:-1 group-title="主力",CCTV13
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" group-title="主力",SiTV欢笑剧场 4K
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="主力",纯享4K
+http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-name="4K修复" group-title="主力",4K修复
+http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="未知4K" group-title="主力",未知4K
+http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV6
+http://223.110.236.57/ott.js.chinamobile.com/PLTV/3/224/3221228185/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV7
+http://223.110.236.22/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV8
+http://223.110.235.22/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV9
+http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV10
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228078/index.m3u8
+#http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV11
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV15
+#EXTINF:-1 group-title="主力",CCTV12
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV14
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="主力",CCTV15
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="CCTV",CNC 中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 group-title="CCTV",CNC 英文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",翡翠台 720P
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",无线新闻台
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",无线新闻台 720P
-#http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8 
-#EXTINF:-1 group-title="港澳台外",无线新闻台 SD
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 group-title="港澳台外",有线新闻台 720P
-#http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",无线财经资讯台
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",无线财经资讯台 SD
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="港澳台外",明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Viu TV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 group-title="港澳台外",ViuTVsix
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 group-title="港澳台外",NOW直播台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="港澳台外",NOW新闻台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="港澳台外",Astor AOD  
-http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8 
-#EXTINF:-1 group-title="港澳台外",RTHK31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="港澳台外",RTHK32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 group-title="港澳台外",RTHK33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="港澳台外",TVB星河频道
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#https://www.navchina.cf/IPTV/icable.php?id=38
-#EXTINF:-1 group-title="港澳台外",有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#https://www.navchina.cf/IPTV/icable.php?id=37
-#EXTINF:-1 group-title="港澳台外",澳視衛視
-http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",澳视澳门
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",澳门综艺
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",澳门资讯
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS新闻台
-http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",民视
-http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",民视台湾台
-http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS
-http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS欢乐台
-http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",中天新聞HD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",寰宇新闻台
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-#EXTINF:-1 group-title="港澳台外",中天综合台
-http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",三立台湾台
-http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",民视新闻台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="港澳台外",爱尔达综合
-http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",爱尔达影剧
-http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来日本台
-http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来精彩台
-http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来电影台
-http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来体育台
-http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来戏剧台
-http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",纬来综合台
-http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",FOX
-http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",KBS World50
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",国家地理野生频道
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",动物星球
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",HGTV居家乐活
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",TVBS新闻台
-#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台外",香港C+
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港澳台外",香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="港澳台外",经典功夫台
-http://103.140.229.13/BOBO/bibi.php?id=21715386
-#EXTINF:-1 group-title="港澳台外",天映经典
-#http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="港澳台外",动物星球
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",BBC Lifestyle
-http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Discovery Eve
-http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",美食星球
-http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",FoodNetwork美食台
-http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",亚洲旅游台
-http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Astro 双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Arirang Korea
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",NHK
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",BBCWorldNews
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="港澳台外",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 group-title="港澳台外",tvN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Sony One50
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Discovery
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="港澳台外",Outdoor
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="港澳台外",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-
-#EXTINF:-1 group-title="广西移动",CCTV1
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV2
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV3
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV4
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV5
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV5+
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV13
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV6
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV7
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV8
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225630/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV9
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV10
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV11
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225750/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV12
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV14
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV15
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
-#EXTINF:-1 group-title="广西移动",CCTV17
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕4K
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1 group-title="广西移动",纯享4K
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
-#EXTINF:-1 group-title="广西移动",4K
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
-#EXTINF:-1 group-title="广西移动",广东珠江卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="广西移动",东南卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="广西移动",东方卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225682/index.m3u8
-#EXTINF:-1 group-title="广西移动",北京卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="广西移动",天津卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225694/index.m3u8
-#EXTINF:-1 group-title="广西移动",安徽卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="广西移动",山东卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="广西移动",广东卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="广西移动",江苏卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="广西移动",江西卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="广西移动",浙江卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225695/index.m3u8
-#EXTINF:-1 group-title="广西移动",深圳卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="广西移动",湖北卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="广西移动",湖南卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225692/index.m3u8
-#EXTINF:-1 group-title="广西移动",辽宁卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="广西移动",重庆卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="广西移动",黑龙江卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225686/index.m3u8
-#EXTINF:-1 group-title="广西移动",上海纪实人文
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225688/index.m3u8
-#EXTINF:-1 group-title="广西移动",北京冬奥纪实
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="广西移动",CGTN纪录
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225707/index.m3u8
-#EXTINF:-1 group-title="广西移动",中国教育1
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225776/index.m3u8
-#EXTINF:-1 group-title="广西移动",中国教育4
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225723/index.m3u8
-#EXTINF:-1 group-title="广西移动",云南卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225794/index.m3u8
-#EXTINF:-1 group-title="广西移动",内蒙古卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225751/index.m3u8
-#EXTINF:-1 group-title="广西移动",吉林卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="广西移动",四川卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="广西移动",宁夏卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225782/index.m3u8
-#EXTINF:-1 group-title="广西移动",山西卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225785/index.m3u8
-#EXTINF:-1 group-title="广西移动",广西卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="广西移动",新疆卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225788/index.m3u8
-#EXTINF:-1 group-title="广西移动",河北卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225773/index.m3u8
-#EXTINF:-1 group-title="广西移动",海南卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225752/index.m3u8
-#EXTINF:-1 group-title="广西移动",甘肃卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225764/index.m3u8
-#EXTINF:-1 group-title="广西移动",西藏卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
-#EXTINF:-1 group-title="广西移动",贵州卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225770/index.m3u8
-#EXTINF:-1 group-title="广西移动",陕西卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225754/index.m3u8
-#EXTINF:-1 group-title="广西移动",青海卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="广西移动",山东教育卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225708/index.m3u8
-#EXTINF:-1 group-title="广西移动",广东南方卫视
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225748/index.m3u8
-#EXTINF:-1 group-title="广西移动",上海哈哈炫动
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="广西移动",北京卡酷少儿
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="广西移动",广东嘉佳卡通
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225797/index.m3u8
-#EXTINF:-1 group-title="广西移动",江苏优漫卡通
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225791/index.m3u8
-#EXTINF:-1 group-title="广西移动",湖南金鹰卡通
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="广西移动",湖南金鹰纪实
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV中国功夫
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV军事评论
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225749/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV军旅剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV农业致富
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225687/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV动作电影
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV古装剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV家庭剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV怡伴健康
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225684/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV惊悚悬疑
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV明星大片
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV武搏世界
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225758/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV海外剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225763/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV潮妈辣婆
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV炫舞未来
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV爱情喜剧
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV精品体育
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225724/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV精品大剧
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV精品纪录
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="广西移动",NewTV金牌综艺
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225755/index.m3u8
-#EXTINF:-1 group-title="广西移动",黑莓动画
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="广西移动",黑莓电影
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="广西移动",黑莓电竞
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频1
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频2
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225771/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频3
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频4
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频5
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225780/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频6
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频7
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频8
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频9
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频10
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频11
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225796/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频12
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频13
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频14
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225805/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频15
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频16
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频17
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频18
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频19
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频20
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频21
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225839/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频22
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频23
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频24
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频25
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频26
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频27
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频28
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频29
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频30
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225849/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频31
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频32
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频33
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频34
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频35
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频36
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频37
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225855/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频38
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频39
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频40
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频41
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225858/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频42
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225859/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频43
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频44
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频45
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225861/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频46
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225862/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频47
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225865/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频48
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225868/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频49
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225871/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频50
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225896/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频51
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225899/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频52
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225902/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频53
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225905/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频54
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频55
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225911/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频56
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225914/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频57
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频58
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225920/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频59
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225839/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频60
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频61
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225876/index.m3u8
-#EXTINF:-1 group-title="广西移动",咪咕视频62
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 group-title="广西移动",直播1
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225850/index.m3u8
-#EXTINF:-1 group-title="广西移动",直播2
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225891/index.m3u8
-
-
-#EXTINF:-1 group-title="各地移动",北京IPTV4K
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="各地移动",北京IPTV淘BABY
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 group-title="各地移动",北京IPTV淘剧场
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 group-title="各地移动",北京IPTV淘娱乐
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 group-title="各地移动",北京IPTV淘电影
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 group-title="各地移动",北京IPTV萌宠TV
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 group-title="各地移动", 芒果TV 4K
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 group-title="各地移动", 爱上4K
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 group-title="各地移动",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226079/index.m3u8
-#EXTINF:-1 group-title="各地移动",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226082/index.m3u8
-#EXTINF:-1 group-title="各地移动",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226064/index.m3u8
-#EXTINF:-1 group-title="各地移动",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226047/index.m3u8
-#EXTINF:-1 group-title="各地移动",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226096/index.m3u8
-#EXTINF:-1 group-title="各地移动",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226073/index.m3u8
-#EXTINF:-1 group-title="各地移动",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/33221226087/index.m3u8
-#EXTINF:-1 group-title="各地移动",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226067/index.m3u8
-#EXTINF:-1 group-title="各地移动",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1 group-title="各地移动",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226099/index.m3u8
-#EXTINF:-1 group-title="各地移动",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226085/index.m3u8
-#EXTINF:-1 group-title="各地移动",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226059/index.m3u8
-#EXTINF:-1 group-title="各地移动",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:-1 group-title="各地移动",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226056/index.m3u8
-#EXTINF:-1 group-title="各地移动",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:-1 group-title="各地移动",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226111/index.m3u8
-#EXTINF:-1 group-title="各地移动",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226088/index.m3u8
-#EXTINF:-1 group-title="各地移动",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 group-title="各地移动",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226105/index.m3u8
-#EXTINF:-1 group-title="各地移动",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226062/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226014/index.m3u8
-#EXTINF:-1 group-title="各地移动",上海纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="各地移动",北京冬奥纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江公共农业
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226050/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226070/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226061/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226044/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:-1 group-title="各地移动",黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226090/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV炫舞未来
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="各地移动",NewTV金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
-#EXTINF:-1 group-title="体育竞技",ELTA奧運1台
-rtmp://59.124.75.153/sat/md011
-#EXTINF:-1 group-title="体育竞技",ELTA奧運2台
-rtmp://59.124.75.153/sat/md021
-#EXTINF:-1 group-title="体育竞技",ELTA奧運3台
-rtmp://59.124.75.153/sat/md031
-#EXTINF:-1 group-title="体育竞技",ELTA體育1台 4K
-rtmp://59.124.75.153/sat/md041
-#EXTINF:-1 group-title="体育竞技",ELTA體育3台
-rtmp://59.124.75.153/sat/md051
-#EXTINF:-1 group-title="体育竞技",NOW Sport
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="体育竞技",纬来体育台
-http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",爱尔达体育3
-http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",ELEVEN体育二台
-http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",ASTRO SPORT 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",ASTRO SPORT 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",ASTRO SPORT 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",ASTRO SPORT 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 group-title="体育竞技",有線奧運601台
-https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
-#EXTINF:-1 group-title="体育竞技",有線奧運602台
-https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
-#EXTINF:-1 group-title="体育竞技",有線高清603台
-https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
-#EXTINF:-1 group-title="体育竞技",有線奧運604台
-https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
-#EXTINF:-1 group-title="体育竞技",有線奧運605台
-https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
-#EXTINF:-1 group-title="体育竞技",魅力足球
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育竞技",五星体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育竞技",新视觉
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育竞技",SiTV劲爆体育FHD
-http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
-#EXTINF:-1 group-title="Movies",CHC高清电影
+#EXTINF:-1 group-title="主力",CCTV17
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="主力",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="Movies",CHC家庭电影
+#EXTINF:-1 group-title="主力",CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="Movies",CHC动作电影
+#EXTINF:-1 group-title="主力",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="Movies",SiTV动漫秀场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="Movies",SiTV都市剧场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="Movies",SiTV欢笑剧场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="Movies",HBOSignature
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FOX
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FOXCRIME
-http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FOXActionMovies
-http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FoxFamilyMovies
-http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FOXMOVIES
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Movies",FOXLife
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Movies",HBOHD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Baby TV
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Kids TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-#EXTINF:-1 group-title="Kids",CBeebies
-http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Disney Junior
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
+#EXTINF:-1 group-title="主力",东方卫视
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 group-title="主力",广东卫视
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
+#EXTINF:-1 group-title="主力",湖南卫视
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+#EXTINF:-1 group-title="主力",浙江卫视
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228204/index.m3u8
+#EXTINF:-1 group-title="主力",江苏卫视
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228099/index.m3u8
+#EXTINF:-1 group-title="主力",北京卫视
+http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+#EXTINF:-1 group-title="主力",天津卫视
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
+#EXTINF:-1 group-title="主力",安徽卫视
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227759/index.m3u8
+#EXTINF:-1 group-title="主力",山东卫视
+http://223.110.245.148/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:-1 group-title="主力",江西卫视
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 group-title="主力",湖北卫视
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
+#EXTINF:-1 group-title="主力",东南卫视
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 group-title="主力",辽宁卫视
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227700/index.m3u8
+#EXTINF:-1 group-title="主力",重庆卫视
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228133/index.m3u8
+#EXTINF:-1 group-title="主力",黑龙江卫视
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227753/index.m3u8
+#EXTINF:-1 group-title="主力",上海纪实
+http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227635/index.m3u8
+#EXTINF:-1 group-title="主力",云南卫视
+http://223.110.236.27/ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8
+#EXTINF:-1 group-title="主力",广西卫视
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 group-title="主力",新疆卫视
+http://223.110.236.55/ott.js.chinamobile.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 group-title="主力",河北卫视
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 group-title="主力",河南卫视
+http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 group-title="主力",海南卫视
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 group-title="主力",甘肃卫视
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
+#EXTINF:-1 group-title="主力",贵州卫视
+http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 group-title="主力",SiTV动漫秀场
+http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
+#EXTINF:-1 group-title="主力",SiTV都市剧场
+http://223.110.236.12/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV潮妈辣婆
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV中国功夫
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV怡伴健康
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV军事评论
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV军旅剧场
+http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV农业致富
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV动作电影
+http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV古装剧场
+http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV家庭剧场
+http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV惊悚悬疑
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV武搏世界
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV爱情喜剧
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV精品体育
+http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV精品大剧
+http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV精品纪录
+http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV金牌综艺
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 group-title="主力",NewTV明星大片
+http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 group-title="主力",黑莓动画
+http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="主力",黑莓电影
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="主力",体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="主力",CNC 中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 group-title="主力",CNC 英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CGTN.png" group-title="主力",CGTN
+http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 tvg-name="CGTNDocumentary" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CGTN%20Documentary.png" group-title="主力",CGTN 纪录
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8

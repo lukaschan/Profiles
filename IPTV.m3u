@@ -31,8 +31,6 @@ http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 group-title="主力",北京冬奥纪实
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力", CCTV4K
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力", CCTV4K HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="主力",CCTV13
@@ -40,6 +38,8 @@ http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-name="SiTV欢笑剧场" group-title="主力",SiTV欢笑剧场 4K
 http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-name="4KUHD" group-title="主力", 4KUHD
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" group-title="主力",纯享4K
 http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" group-title="主力",4K修复
@@ -174,8 +174,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 group-title="主力",NewTV金牌综艺
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 group-title="主力",NewTV明星大片
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 group-title="主力",黑莓动画
 http://223.110.235.21/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="主力",黑莓电影

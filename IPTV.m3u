@@ -8,7 +8,8 @@ http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 group-title="主力",凤凰香港
 http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 group-title="主力",深圳卫视
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226111/index.m3u8
+#http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228236/index.m3u8
 #EXTINF:-1 group-title="主力",CCTV1
 http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -18,7 +19,7 @@ http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221228118/index.m3u8
 http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221228188/index.m3u8
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="主力",CCTV4
-http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
+http://223.110.235.35/ott.js.chinamobile.com/PLTV/3/224/3221228142/index.m3u8
 #EXTINF:-1 group-title="主力",CCTV5
 http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228173/index.m3u8
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8

@@ -96,15 +96,20 @@ http://192.168.2.252:7788/rtp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
 http://192.168.2.252:7788/rtp/239.77.0.114:5146
 #EXTINF:-1 group-title="主力",广州综合
-http://192.168.2.251:7789/gzbn.php?get_channel=general
+http://192.168.2.252:7788/rtp/239.253.43.71:5146
+#http://192.168.2.251:7789/gzbn.php?get_channel=general
 #EXTINF:-1 group-title="主力",广州新闻
-http://192.168.2.251:7789/gzbn.php?get_channel=news
+http://192.168.2.252:7788/rtp/239.253.43.72:5146
+#http://192.168.2.251:7789/gzbn.php?get_channel=news
 #EXTINF:-1 group-title="主力",广州影视
-http://192.168.2.251:7789/gzbn.php?get_channel=drama
+http://192.168.2.252:7788/rtp/239.253.43.73:5146
+#http://192.168.2.251:7789/gzbn.php?get_channel=drama
 #EXTINF:-1 group-title="主力",广州竞赛
-http://192.168.2.251:7789/gzbn.php?get_channel=sport
+http://192.168.2.252:7788/rtp/239.253.43.75:5146
+#http://192.168.2.251:7789/gzbn.php?get_channel=sport
 #EXTINF:-1 group-title="主力",广州法治
-http://192.168.2.251:7789/gzbn.php?get_channel=legal
+http://192.168.2.252:7788/rtp/239.253.43.74:5146
+#http://192.168.2.251:7789/gzbn.php?get_channel=legal
 #EXTINF:-1 group-title="主力",南国都市
 http://192.168.2.251:7789/gzbn.php?get_channel=uhd
 #EXTINF:-1 group-title="主力",广东新闻

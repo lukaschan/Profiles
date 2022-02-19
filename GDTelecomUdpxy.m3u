@@ -15,6 +15,8 @@ http://iptv.tvfix.org/hls/jade.m3u8
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="主力",J2
 http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="主力",HBO
+http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="主力",ViuTVsix
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTV

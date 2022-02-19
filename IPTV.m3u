@@ -11,6 +11,8 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://iptv.tvfix.org/hls/szhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="主力",HBO
+http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV-1高清
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV-2高清

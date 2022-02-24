@@ -17,6 +17,8 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="主力",HBO
 http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="" group-title="主力",HBO Hits
+http://iptv.tvfix.org/hls/hbohits2.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="主力",ViuTVsix
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTV
@@ -41,18 +43,22 @@ http://iptv.tvfix.org/hls/tvbsnews.m3u8
 http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="主力",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="主力",动物星球
-http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Love Nature 4K
-http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="主力",国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnn.png" group-title="主力",CNN
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/bbc.png" group-title="主力",BBC
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/aljazeera.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="主力",Bloomberg
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="主力",动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Love Nature
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="主力",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
 http://192.168.2.252:7788/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV2
@@ -291,10 +297,12 @@ http://192.168.2.252:7788/rtp/239.77.0.164:5146
 http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",CHC电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭影院
-http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
-http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#http://iptv.tvfix.org/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

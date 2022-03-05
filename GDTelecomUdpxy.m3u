@@ -62,7 +62,8 @@ https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/abcus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/800px-Russia-Today-Logo.svg.png" group-title="主力",Russia Today
-https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/RT.m3u8
+http://iptv.tvfix.org/hls/rt.m3u8
+#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/RT.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="主力",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Love Nature

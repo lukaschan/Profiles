@@ -25,7 +25,7 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="主力",HBO
 http://iptv.tvfix.org/hls/hbo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="主力",HBOHits
+#EXTINF:-1 tvg-id="" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="主力",HBO Hits
 http://iptv.tvfix.org/hls/hbohits2.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTVsix
 http://iptv.tvfix.org/hls/viutv6.m3u8
@@ -312,14 +312,12 @@ http://192.168.2.252:7788/rtp/239.77.0.164:5146
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="少儿",CETV早期教育
 http://192.168.2.252:7788/rtp/239.77.0.180:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",CHC电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="文娱",CHC高清电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#http://iptv.tvfix.org/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭电影
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

@@ -204,10 +204,6 @@ http://192.168.2.252:7788/rtp/239.77.1.229:5146
 http://192.168.2.252:7788/rtp/239.77.0.139:5146
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="主力",中国教育-1
 http://192.168.2.252:7788/rtp/239.77.0.200:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNC 中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNC 英文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France24
 https://cdn.jsdelivr.net/gh/lukaschan/Profiles@YTlive/france24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="粤市",佛山公共

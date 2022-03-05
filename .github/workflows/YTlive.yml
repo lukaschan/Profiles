@@ -49,14 +49,14 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=NQjabLGdP5g)
         EOL
-    - name: Get Arirang.m3u8
+    - name: Get RT.m3u8
       run: |
-        touch ./Arirang.m3u8
-        sudo cat >./Arirang.m3u8 <<EOL
+        touch ./RT.m3u8
+        sudo cat >./RT.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=RBLlQUb5A0w)
+        $(youtube-dl -g https://www.youtube.com/watch?v=V0I5eglJMRI)
         EOL
     - name: Get france24.m3u8
       run: |

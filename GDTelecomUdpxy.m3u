@@ -92,7 +92,7 @@ http://192.168.2.252:7788/rtp/239.77.1.110:5146
 http://192.168.2.252:7788/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
 http://192.168.2.252:7788/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/gzxwpd.jpg" group-title="主力",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
 http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="主力",北京新闻
 http://iptv.tvfix.org/hls/brtv9hd.m3u8

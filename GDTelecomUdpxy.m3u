@@ -93,7 +93,7 @@ http://192.168.2.252:7788/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",五星体育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Star Sports
-http://iptv.tvfix.org/hls/starsports.m3u8
+#http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="主力",北京纪实
 http://192.168.2.252:7788/rtp/239.77.1.110:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K

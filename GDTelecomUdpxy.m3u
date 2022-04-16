@@ -58,7 +58,8 @@ http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/TDMOuMun.png" group-title="主力",澳视澳门
 http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="主力",Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
+http://60.250.91.85:8588/.m3u8
+#http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnn.png" group-title="主力",CNN
 http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/bbc.png" group-title="主力",BBC

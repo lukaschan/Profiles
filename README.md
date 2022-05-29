@@ -1,6 +1,8 @@
 tiktok解锁直播区域限制，17.9.0以上版本食用
 
 
+I P T V纯私用，感谢电视匣，woodong，卷毛鼠。
+
 #From Tartarus2014, Thanks
 
 

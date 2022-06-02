@@ -137,9 +137,9 @@ http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="主力",北京新闻
 #http://192.168.2.251:7788/hls/brtv9hd.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K
-#http://192.168.2.252:7788/rtp/239.77.0.232:5146
+http://192.168.2.252:7788/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K HD
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="主力",CCTV6
 http://192.168.2.252:7788/rtp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="主力",CCTV7

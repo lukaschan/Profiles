@@ -1,6 +1,6 @@
 I P T V纯私用，感谢电视匣，woodong，卷毛鼠。
 
-https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml
+https://raw.fastgit.org/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/master/epg.xml
 
 https://epg.112114.xyz/pp.xml
 

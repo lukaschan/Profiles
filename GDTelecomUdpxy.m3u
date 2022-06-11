@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/minshi.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="主力",台视新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/taishi.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="主力",东森新闻
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsen.m3u8
+#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsen.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="主力",东森财经
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsenfi.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/aljazeera.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNA
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/cna.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力", Sky News
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/skynews.m3u8
+#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/skynews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",NBC News
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/nbcnews.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="主力",DW News

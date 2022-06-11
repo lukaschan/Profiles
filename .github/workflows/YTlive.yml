@@ -76,15 +76,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=vOTiJkg1voo)
         EOL
-    - name: Get News12NY.m3u8
-      run: |
-        touch ./News12NY.m3u8
-        sudo cat >./News12NY.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=l7hjL6vI4FI)
-        EOL
     - name: Get cna.m3u8
       run: |
         touch ./cna.m3u8
@@ -102,15 +93,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=h3MuIUNCCzI)
-        EOL
-    - name: Get EnglishSpeeches.m3u8
-      run: |
-        touch ./EnglishSpeeches.m3u8
-        sudo cat >./EnglishSpeeches.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=L4NZy08zVG4)
         EOL
     - name: Get ctinews.m3u8
       run: |

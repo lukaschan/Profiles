@@ -85,10 +85,6 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcus.m3u8
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcau.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/france24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",News12 NY
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/News12NY.m3u8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",English Speeches
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/EnglishSpeeches.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
 http://192.168.2.252:7788/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV2

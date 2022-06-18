@@ -47,7 +47,7 @@ https://ytb.52sf.ga/jmsytb.m3u8?c=12
 #https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsenfi.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/hyxw.m3u8
-#EXTINF:-1,group-title="主力",TVBS新聞
+#EXTINF:-1 group-title="主力",TVBS新聞
 https://ytb.52sf.ga/jmsytb.m3u8?c=45
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/aljazeera.m3u8

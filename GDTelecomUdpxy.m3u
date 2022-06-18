@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主力",凤凰中文
-http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+http://ott.mobaibox.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主力",凤凰资讯
-http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+http://ott.mobaibox.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="主力",凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="主力",凤凰中文SD
 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="主力",凤凰资讯SD
@@ -17,44 +19,20 @@ http://192.168.2.252:7788/rtp/239.77.0.170:5146
 http://192.168.2.252:7788/rtp/239.77.1.31:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="主力",广东体育
 http://192.168.2.252:7788/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
+http://192.168.2.252:7788/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
+http://192.168.2.252:7788/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
-#http://192.168.2.251:7788/hls/inews.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
-#http://192.168.2.251:7788/hls/finance.m3u8
-#https://tvfix.woodong.workers.dev/hls/finance.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻SD
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经SD
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="主力",明珠台
-#http://192.168.2.251:7788/hls/pearl.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="主力",翡翠台
-#http://192.168.2.251:7788/hls/jadehk.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="主力",J2
-#http://192.168.2.251:7788/hls/j2.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTV6
-#http://hk.woaixbw.ml:8080/channels/tv-96/playlist.m3u8
-#http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTV
-#http://192.168.2.251:7788/hls/viutv.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力",港台电视31
-#http://192.168.2.251:7788/hls/rthk31.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力",港台电视32
-#http://192.168.2.251:7788/hls/rthk32.m3u8
-#http://hk.woaixbw.ml:8080/channels/tv-32/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/ctinews.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="主力",民视新闻
@@ -62,16 +40,21 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/minshi.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="主力",台视新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/taishi.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="主力",东森新闻
+https://ytb.52sf.ga/jmsytb.m3u8?c=9
 #https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsen.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="主力",东森财经
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsenfi.m3u8
+https://ytb.52sf.ga/jmsytb.m3u8?c=12
+#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsenfi.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/hyxw.m3u8
+#EXTINF:-1,group-title="主力",TVBS新聞
+https://ytb.52sf.ga/jmsytb.m3u8?c=45
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/aljazeera.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNA
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/cna.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力", Sky News
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
+https://ytb.52sf.ga/jmsytb.m3u8?c=11
 #https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/skynews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",NBC News
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/nbcnews.m3u8
@@ -97,12 +80,11 @@ http://192.168.2.252:7788/rtp/239.77.1.163:5146
 http://192.168.2.252:7788/rtp/239.77.1.110:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
 http://192.168.2.252:7788/rtp/239.77.1.98:5146
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="主力",北京新闻
-#http://192.168.2.251:7788/hls/brtv9hd.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #http://192.168.2.252:7788/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K HD
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="主力",CCTV6
 http://192.168.2.252:7788/rtp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="主力",CCTV7
@@ -125,18 +107,12 @@ http://192.168.2.252:7788/rtp/239.77.1.121:5146
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="主力",CGTN纪录
 #https://iptv.52sf.ga/hls/cgtndochd.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
-http://192.168.2.252:7788/rtp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
-http://192.168.2.252:7788/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州影视
 http://192.168.2.252:7788/rtp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州竞赛
 http://192.168.2.252:7788/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州法治
 http://192.168.2.252:7788/rtp/239.253.43.74:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",南国都市
-http://192.168.2.251:7789/gzbn.php?get_channel=uhd
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="主力",广东新闻
 http://192.168.2.252:7788/rtp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="主力",广东综艺4k
@@ -211,7 +187,6 @@ http://192.168.2.252:7788/rtp/239.77.1.229:5146
 http://192.168.2.252:7788/rtp/239.77.0.139:5146
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="主力",中国教育1台
 http://192.168.2.252:7788/rtp/239.77.0.200:5146
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="粤市",佛山公共
 http://192.168.2.252:7788/rtp/239.253.43.53:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="粤市",佛山南海
@@ -316,7 +291,6 @@ http://192.168.2.252:7788/rtp/239.77.0.27:5146
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

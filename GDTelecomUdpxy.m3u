@@ -85,6 +85,10 @@ http://192.168.2.252:7788/rtp/239.77.1.98:5146
 #http://192.168.2.252:7788/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",爱上4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="主力",CCTV6
 http://192.168.2.252:7788/rtp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="主力",CCTV7
@@ -290,9 +294,11 @@ http://192.168.2.252:7788/rtp/239.77.0.180:5146
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="文娱",CHC高清电影
 http://192.168.2.252:7788/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓

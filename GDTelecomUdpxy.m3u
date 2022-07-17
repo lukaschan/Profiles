@@ -27,37 +27,37 @@ http://192.168.2.252:7788/rtp/239.253.43.71:5146
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻SD
-http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻SD
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经SD
-http://livetv.dnsfor.me:80/channel.11.m3u8
+#http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now新闻" tvg-logo="" group-title="主力",Now新闻
+http://live.cooltv.top/tv/now.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="Now财经" tvg-logo="" group-title="主力",Now财经
+http://live.cooltv.top/tv/now.php?id=333
+#EXTINF:-1 tvg-id="" tvg-name="Now直播" tvg-logo="" group-title="主力",Now直播
+http://live.cooltv.top/tv/now.php?id=331
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="主力",J2
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/ctinews.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="主力",民视新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/minshi.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="主力",台视新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/taishi.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="主力",东森新闻
-https://ytb.52sf.ga/jmsytb.m3u8?c=9
-#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsen.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="主力",东森财经
-https://ytb.52sf.ga/jmsytb.m3u8?c=12
-#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dongsenfi.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/hyxw.m3u8
-#EXTINF:-1 group-title="主力",TVBS新聞
-https://ytb.52sf.ga/jmsytb.m3u8?c=45
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/aljazeera.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNA
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/cna.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
-https://ytb.52sf.ga/jmsytb.m3u8?c=11
-#https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/skynews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",NBC News
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/nbcnews.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="主力",DW News
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dwnews.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="主力",Bloomberg
@@ -85,7 +85,7 @@ http://192.168.2.252:7788/rtp/239.77.1.98:5146
 #http://192.168.2.252:7788/rtp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K HD
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="主力",爱上4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com

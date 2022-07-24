@@ -33,12 +33,6 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="有线财经" tvg-logo="" group-title="主力",有线财经SD
 http://61.10.2.153/live_freedirect/freehd208_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now新闻" tvg-logo="" group-title="主力",Now新闻
-http://ewcdnsite06.nowe.com/session/09-3b4275edd67d904937dc027bfd429/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now财经" tvg-logo="" group-title="主力",Now财经
-http://ewcdnsite04.nowe.com/session/09-1c9302040713cf169bf333fbc26cd/Content/HLS/LIVE/Channel(HLS_CH333)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now直播" tvg-logo="" group-title="主力",Now直播
-http://ewcdnsite06.nowe.com/session/09-849cb1e8c7040f8fa0221dfdef8e2/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻

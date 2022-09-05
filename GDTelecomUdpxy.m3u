@@ -108,9 +108,11 @@ http://192.168.2.252:7788/rtp/239.77.0.173:5146
 http://192.168.2.252:7788/rtp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="" group-title="主力",南国都市4k
 http://192.168.2.252:7788/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",求索记录
+http://192.168.2.252:7788/rtp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",求索生活
 http://192.168.2.252:7788/rtp/239.77.0.153:5146
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",大湾区卫视
 http://192.168.2.252:7788/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",深圳体育
 http://192.168.2.252:7788/rtp/239.77.1.128:5146==
@@ -286,6 +288,20 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 #http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="文娱",茶频道
 http://192.168.2.252:7788/rtp/239.77.0.15:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",风尚生活
+http://192.168.2.252:7788/rtp/239.253.43.95:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",幸福剧场
+http://192.168.2.252:7788/rtp/239.253.43.96:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",幸福娱乐
+http://192.168.2.252:7788/rtp/239.253.43.97:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",天元围棋
+http://192.168.2.252:7788/rtp/239.253.43.98:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",中华美食
+http://192.168.2.252:7788/rtp/239.253.43.40:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",文物宝库
+http://192.168.2.252:7788/rtp/239.77.1.120:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",爱体育
+http://192.168.2.252:7788/rtp/239.77.0.176:5146
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="文娱",快乐垂钓
 http://192.168.2.252:7788/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="文娱",兵器科技

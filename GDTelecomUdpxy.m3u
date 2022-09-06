@@ -116,7 +116,7 @@ http://192.168.2.252:7788/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",大湾区卫视
 http://192.168.2.252:7788/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",深圳体育
-http://192.168.2.252:7788/rtp/239.77.1.128:5146==
+http://192.168.2.252:7788/rtp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视
 http://192.168.2.252:7788/rtp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",经济科教

@@ -21,6 +21,14 @@ http://192.168.2.252:7788/rtp/239.253.43.71:5146
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",无线新闻
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",无线财经
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Now新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",Now直播
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力",RHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力",RHK32
@@ -53,6 +61,8 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcus.m3u8
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcau.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/france24.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-id="" tvg-name="CNN国际新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="主力",CNN国际新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live204&hd=720
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1
 http://192.168.2.252:7788/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="主力",CCTV2

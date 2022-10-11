@@ -22,15 +22,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=F-POY4Q0QSI)
         EOL
-    - name: Get skynews.m3u8
-      run: |
-        touch ./skynews.m3u8
-        sudo cat >./skynews.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=9Auq9mYxFEE)
-        EOL
     - name: Get dwnews.m3u8
       run: |
         touch ./dwnews.m3u8
@@ -39,15 +30,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=GE_SfNVNyqk)
-        EOL
-    - name: Get nbcnews.m3u8
-      run: |
-        touch ./nbcnews.m3u8
-        sudo cat >./nbcnews.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=dvkgML-hct4)
         EOL
     - name: Get Bloomberg.m3u8
       run: |
@@ -66,15 +48,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=w_Ma8oQLmSM)
-        EOL
-    - name: Get abcau.m3u8
-      run: |
-        touch ./abcau.m3u8
-        sudo cat >./abcau.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=vOTiJkg1voo)
         EOL
     - name: Get cna.m3u8
       run: |
@@ -102,15 +75,6 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=_QbRXRnHMVY)
-        EOL
-    - name: Get minshi.m3u8
-      run: |
-        touch ./minshi.m3u8
-        sudo cat >./minshi.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=yguQ1SzPM5U)
         EOL
     - name: Get hyxw.m3u8
       run: |

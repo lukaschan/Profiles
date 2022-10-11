@@ -53,8 +53,6 @@ http://192.168.2.251:7789/ytb.php?id=ctv
 http://192.168.2.251:7789/ytb.php?id=ftv
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="主力",东森财经
 http://192.168.2.251:7789/ytb.php?id=ebcf
-#EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",
-http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="主力",台视新闻
 http://192.168.2.251:7789/ytb.php?id=ttv
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
@@ -65,6 +63,8 @@ http://192.168.2.251:7789/ytb.php?id=eurog
 http://192.168.2.251:7789/ytb.php?id=euro
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 http://192.168.2.251:7789/ytb.php?id=alja
+#EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
+http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNA
 http://192.168.2.251:7789/ytb.php?id=cna
 #EXTINF:-1 tvg-id="730" tvg-name="DW德国之声(ENGLISH)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="主力",DW News

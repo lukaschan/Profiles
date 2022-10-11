@@ -15,14 +15,14 @@ http://192.168.2.252:7788/rtp/239.77.0.170:5146
 http://192.168.2.252:7788/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="主力",广东体育
 http://192.168.2.252:7788/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
-http://192.168.2.252:7788/rtp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
-http://192.168.2.252:7788/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
+http://192.168.2.252:7788/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
+http://192.168.2.252:7788/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
 http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
@@ -71,7 +71,7 @@ http://192.168.2.251:7789/ytb.php?id=cna
 http://192.168.2.251:7789/ytb.php?id=dw
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="主力",Bloomberg
 http://192.168.2.251:7789/ytb.php?id=bbg
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC News
+#EXTINF:-1 tvg-id="7100" tvg-name="ABC US" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC News
 http://192.168.2.251:7789/ytb.php?id=abc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",NBC News
 http://192.168.2.251:7789/ytb.php?id=nbc

@@ -24,9 +24,7 @@ http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
-http://173.211.42.73:8278/jade_twn/playlist.m3u8?tid=MAAA6189111161891111&ct=19234&tsum=dc766fd3aeadaf6a07b3cb73234ddb69
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="主力",ViuTV
-http://173.211.42.73:8278/viu_twn/playlist.m3u8?tid=MBAB6637081866370818&ct=19234&tsum=d0e7863daa0324e437cae5ec16fb1b4f
+http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
 http://192.168.2.251:7789/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
@@ -43,8 +41,6 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/ctinews.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="主力",民视新闻
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/minshi.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="主力",台视新闻
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/taishi.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
@@ -59,8 +55,6 @@ https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/dwnews.m3u8
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC News
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC AUS
-https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/abcau.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24
 https://raw.githubusercontent.com/lukaschan/Profiles/YTlive/france24.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1

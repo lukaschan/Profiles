@@ -2,8 +2,8 @@
 # From https://github.com/LiuYi0526/IPTV
 name: Get YouTube Live m3u8
 on:
-  schedule:
-    - cron: "0 */2 * * *"
+  #schedule:
+   # - cron: "0 */2 * * *"
   workflow_dispatch:
 jobs:
   build:

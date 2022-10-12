@@ -57,24 +57,20 @@ http://192.168.2.251:7789/ytb.php?id=ebcf
 http://192.168.2.251:7789/ytb.php?id=ttv
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 http://192.168.2.251:7789/ytb.php?id=gntv
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="主力",Euronews Deutsch
-http://192.168.2.251:7789/ytb.php?id=eurog
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Deutsch" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="主力",Euronews Deutsch
+http://192.168.2.251:7789/ytb.php?id=eurog&q=720
 #EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="主力",Euronews
-http://192.168.2.251:7789/ytb.php?id=euro
+http://192.168.2.251:7789/ytb.php?id=euro&q=720
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 http://192.168.2.251:7789/ytb.php?id=alja
 #EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
 http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",CNA
 http://192.168.2.251:7789/ytb.php?id=cna
-#EXTINF:-1 tvg-id="730" tvg-name="DW德国之声(ENGLISH)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="主力",DW News
-http://192.168.2.251:7789/ytb.php?id=dw
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="主力",Bloomberg
-http://192.168.2.251:7789/ytb.php?id=bbg
-#EXTINF:-1 tvg-id="7100" tvg-name="ABC US" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC News
-http://192.168.2.251:7789/ytb.php?id=abc
+#EXTINF:-1 tvg-id="7100" tvg-name="ABC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="主力",ABC News
+http://192.168.2.251:7789/ytb.php?id=abc&q=720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",NBC News
-http://192.168.2.251:7789/ytb.php?id=nbc
+http://192.168.2.251:7789/ytb.php?id=nbc&q=720
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24
 http://192.168.2.251:7789/ytb.php?id=f24
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="主力",CCTV1

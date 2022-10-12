@@ -19,10 +19,8 @@ http://192.168.2.252:7788/rtp/239.77.0.168:5146
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育SD
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
-http://192.168.2.252:7788/rtp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
-http://192.168.2.252:7788/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.now.com/revamp/images/globalTop/nowsports_logo3.png" group-title="主力",Now Sports Prime
+http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
 http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7398946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
@@ -31,10 +29,18 @@ http://192.168.2.251:7789/tvb.php?id=0&hq
 http://192.168.2.251:7789/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="有线财经" tvg-logo="" group-title="主力",有线财经
+http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力",RHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力",RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/nowdirect.png" group-title="主力",Now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/nownews.png" group-title="主力",Now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="主力",Now财经台
+http://livetv.dnsfor.me:80/channel.8.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
@@ -103,6 +109,10 @@ http://192.168.2.252:7788/rtp/239.77.1.239:5146
 http://192.168.2.252:7788/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="主力",CGTN
 http://192.168.2.252:7788/rtp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
+http://192.168.2.252:7788/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州综合
+http://192.168.2.252:7788/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州影视
 http://192.168.2.252:7788/rtp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州竞赛

@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视中文台" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="主力",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰卫视资讯台" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="主力",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视香港台" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="主力",凤凰香港
 http://120.84.96.78:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
@@ -22,11 +22,7 @@ http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="主力",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
-http://pull-l3-cny.douyincdn.com/live/3d0480d08fe947edf105c50ce202485d.flv
-#EXTINF:-1 tvg-logo="https://www.img.xz95.top/img/wikipedia/zh/thumb/1/13/TVB_J2.jpg/200px-TVB_J2.jpg" group-title="主力",J2
-http://pull-l3-cny.douyincdn.com/live/3534329072a8392bf909353260336760.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="主力",明珠台
-http://pull-l3-cny.douyincdn.com/live/9e96107683ca484b2af1ca6bb116424d.flv
+http://113.64.147.217:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
 http://192.168.2.251:7789/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经

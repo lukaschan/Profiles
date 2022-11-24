@@ -69,7 +69,8 @@ http://192.168.2.251:7789/ytb.php?id=ttv
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 http://192.168.2.251:7789/ytb.php?id=gntv
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://192.168.2.251:7789/ytb.php?id=alja
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#http://192.168.2.251:7789/ytb.php?id=alja
 #EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
 http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/322-wbg-c.png" group-title="主力",CNA

@@ -21,14 +21,8 @@ http://192.168.2.252:7788/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #http://192.168.2.252:7788/rtp/239.77.1.98:5146
-#EXTINF:-1 tvg-name="咪咕体育4K" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="主力",咪咕体育4K
-http://117.136.156.66/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",五星体育
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="主力",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="主力",翡翠台
-http://gg.gg/GDTVB5
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",无线新闻
 http://192.168.2.251:7789/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",无线财经
@@ -86,8 +80,6 @@ http://192.168.2.252:7788/rtp/239.77.0.137:5146
 http://192.168.2.252:7788/rtp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="主力",CCTV4
 http://192.168.2.252:7788/rtp/239.77.1.163:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="主力",CCTV4K
-#http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",每日影院
 http://192.168.2.252:7788/rtp/239.253.43.94:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="主力",爱上4K

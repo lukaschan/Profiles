@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="自用",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.flv
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="自用",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.flv
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="自用",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="自用",爱上4K

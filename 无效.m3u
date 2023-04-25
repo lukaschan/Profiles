@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1987" tvg-name="纬来体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/weilaitiyu.jpg" group-title="主力",纬来体育
+https://yeslivetv.com/tvphp/stream.php?id=videoland-sports
+#EXTINF:-1 tvg-id="1987" tvg-name="ELEVEN" tvg-logo="http://www.tvyan.com/uploads/dianshi/elevensports.jpg" group-title="主力",ELEVEN1
+https://yeslivetv.com/tvphp/stream.php?id=eleven1
+#EXTINF:-1 tvg-id="1987" tvg-name="ELEVEN" tvg-logo="http://www.tvyan.com/uploads/dianshi/elevensports.jpg" group-title="主力",ELEVEN2
+https://yeslivetv.com/tvphp/stream.php?id=eleven2
+#EXTINF:-1 tvg-id="1987" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/eltasport.jpg" group-title="主力",爱尔达体育1台
+https://yeslivetv.com/tvphp/stream.php?id=elta1-2
+#EXTINF:-1 tvg-id="1987" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/eltasport.jpg" group-title="主力",爱尔达体育2台
+https://yeslivetv.com/tvphp/stream.php?id=elta2
+#EXTINF:-1 tvg-id="1987" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/eltasport.jpg" group-title="主力",爱尔达体育3台
+https://yeslivetv.com/tvphp/stream.php?id=elta3
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力",RHK31
+#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb.jpg" group-title="主力",翡翠台
+https://yeslivetv.com/tvphp/stream.php?id=tvb
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv.jpg" group-title="主力",Viutv
+https://yeslivetv.com/tvphp/stream.php?id=viu
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="主力",Viutv6
+https://yeslivetv.com/tvphp/stream.php?id=viu6
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="主力",J2
+https://yeslivetv.com/tvphp/stream.php?id=J2
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/pearl.jpg" group-title="主力",TVB明珠台
+https://yeslivetv.com/tvphp/stream.php?id=pearl
+
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="主力",东森新闻
+https://yeslivetv.com/tvphp/stream.php?id=ebc
+#EXTINF:-1 tvg-id="" tvg-name="TVBS 新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="主力",TVBS新闻
+https://yeslivetv.com/tvphp/stream.php?id=tvbs55

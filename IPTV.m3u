@@ -1,7 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="自用",凤凰资讯
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视中文台" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="自用",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰卫视资讯台" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="自用",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视香港台" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="自用",凤凰香港
+#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="自用",凤凰资讯 标清
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="自用",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="自用",凤凰中文 标清
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="自用",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8

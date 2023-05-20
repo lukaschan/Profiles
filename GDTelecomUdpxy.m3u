@@ -31,8 +31,6 @@ https://cntv.sbs/abroad?id=h003
 http://192.168.2.251:7789/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",無綫财经
 http://192.168.2.251:7789/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="無綫財經·體育·資訊台" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="主力",無綫財經·體育·資訊
-https://cntv.sbs/abroad?id=h005
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="有線財經資訊台" tvg-name="有線財經資訊台" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="主力",有線財經資訊

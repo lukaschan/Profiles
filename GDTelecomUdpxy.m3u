@@ -58,8 +58,7 @@ https://cntv.sbs/abroad?id=e010
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #http://192.168.2.251:7789/ytb.php?id=alja
 #EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
-https://cntv.sbs/abroad?id=e016
-#http://192.168.2.251:7789/ytb.php?id=sky
+http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/322-wbg-c.png" group-title="主力",CNA
 http://192.168.2.251:7789/ytb.php?id=cna
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24

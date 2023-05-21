@@ -40,8 +40,7 @@ https://cntv.sbs/abroad?id=h006
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力",RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="HOYTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",HOYTV
-https://cntv.sbs/abroad?id=h010
-#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="香港開電視資訊台" tvg-name="香港開電視資訊台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="主力",HOY資訊
 https://cntv.sbs/abroad?id=h008
 #EXTINF:-1 tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://cntv.sbs/g?logo=hkibc" group-title="主力",香港國際財經台

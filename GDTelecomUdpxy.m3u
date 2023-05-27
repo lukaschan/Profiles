@@ -16,17 +16,15 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="主力",北京体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="主力",劲爆体育
-http://cntv.sbs/ipv6?id=lqhxjcHDH265
-#http://192.168.2.251:7789/ghyx.php?id=JinBaoTiYuHD_6000
+https://cntv.sbs/v605?id=lqhxjcHDH265
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16 4K
-http://cntv.sbs/ipv6?id=CCTV-16-4K_8000
+https://cntv.sbs/v605?id=CCTV-16-4K_8000
 #http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #http://192.168.2.252:7788/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb.jpg" group-title="主力",翡翠台
-https://cntv.sbs/abroad?id=h002
-#http://r.jdshipin.com/qClQf
+http://sc2022.stream-link.org/list.php?id=h002
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="主力",J2
-https://cntv.sbs/abroad?id=h003
+http://sc2022.stream-link.org/list.php?id=h003
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",無綫新闻
 http://192.168.2.251:7789/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",無綫财经
@@ -34,23 +32,23 @@ http://192.168.2.251:7789/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="有線財經資訊台" tvg-name="有線財經資訊台" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="主力",有線財經資訊
-https://cntv.sbs/abroad?id=h012
+
 #EXTINF:-1 tvg-id="RHK31" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="主力",RHK31
-https://cntv.sbs/abroad?id=h006
+
 #EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="主力",RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="HOYTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="主力",HOYTV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="香港開電視資訊台" tvg-name="香港開電視資訊台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="主力",HOY資訊
-https://cntv.sbs/abroad?id=h008
+
 #EXTINF:-1 tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://cntv.sbs/g?logo=hkibc" group-title="主力",香港國際財經台
-https://cntv.sbs/abroad?id=h009
+
 #EXTINF:-1 tvg-id="9999" tvg-name="ABC News" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="主力",ABC News
-https://cntv.sbs/abroad?id=e002
+http://sc2022.stream-link.org/list.php?id=e002
 #EXTINF:-1 tvg-id="9999" tvg-name="NBC News" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="主力",NBC News
-https://cntv.sbs/abroad?id=e014
+http://sc2022.stream-link.org/list.php?id=e014
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=fox-live" group-title="主力",Fox Live
-https://cntv.sbs/abroad?id=e010
+http://sc2022.stream-link.org/list.php?id=e010
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #http://192.168.2.251:7789/ytb.php?id=alja
@@ -75,13 +73,13 @@ http://192.168.2.251:7789/ytb.php?id=gntv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="主力",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="主力",CCTV-4K
-http://cntv.sbs/ipv6?id=ys4Kcq_2000
+https://cntv.sbs/v605?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
 http://192.168.2.252:7788/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
 http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="1880" tvg-name="BRTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主力",北京新闻
-http://cntv.sbs/bj?id=xw
+https://i.cntv.sbs/hls/bj.m3u8?id=xw
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="主力",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江

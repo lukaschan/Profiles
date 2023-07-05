@@ -26,6 +26,8 @@ http://192.168.2.251:7789/tvb.php?id=0&hq
 http://192.168.2.251:7789/tvb.php?id=1&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",無綫新闻
 http://192.168.2.251:7789/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="主力",無綫新闻海外版
+http://192.168.2.251:7789/tvb.php?id=4&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",無綫财经
 http://192.168.2.251:7789/tvb.php?id=6&hq
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻

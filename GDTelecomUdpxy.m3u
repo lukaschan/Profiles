@@ -50,14 +50,14 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=fox-live" group-title="主力",Fox Live
 
-#EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="主力",Aljazeera TV
+#EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="https://www.nowtv.now.com/media/logo/325-wbg-e.png" group-title="主力",Aljazeera TV
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #http://192.168.2.251:7789/ytb.php?id=alja
-#EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="主力",Sky News
+#EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="https://www.nowtv.now.com/media/logo/323-wbg-e.png" group-title="主力",Sky News
 http://192.168.2.251:7789/ytb.php?id=sky
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/322-wbg-c.png" group-title="主力",CNA
 http://192.168.2.251:7789/ytb.php?id=cna
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="主力",France 24
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.nowtv.now.com/media/logo/327c-dbg-e.png" group-title="主力",France 24
 http://192.168.2.251:7789/ytb.php?id=f24
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="主力",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8

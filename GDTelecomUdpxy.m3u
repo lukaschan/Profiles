@@ -44,6 +44,10 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 
 #EXTINF:-1 tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://cntv.sbs/g?logo=hkibc" group-title="主力",香港國際財經台
 
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
+http://192.168.2.252:7788/rtp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
+http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="9999" tvg-name="ABC News" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="主力",ABC News
 
 #EXTINF:-1 tvg-id="9999" tvg-name="NBC News" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="主力",NBC News
@@ -75,12 +79,8 @@ http://192.168.2.251:7789/ytb.php?id=gntv
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="主力",CCTV-4K
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13
-http://192.168.2.252:7788/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
-http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="1880" tvg-name="BRTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主力",北京新闻
-https://i.cntv.sbs/hls/bj.m3u8?id=xw
+
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="主力",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江

@@ -49,7 +49,7 @@ http://192.168.2.252:7788/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
 http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="9999" tvg-name="ABC News" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="主力",ABC News
-http://192.168.2.251:7789/ytb.php?id=abc
+
 #EXTINF:-1 tvg-id="9999" tvg-name="NBC News" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="主力",NBC News
 
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=fox-live" group-title="主力",Fox Live

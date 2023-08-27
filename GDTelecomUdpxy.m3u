@@ -24,12 +24,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="主力",J2
 
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻
-http://192.168.2.251:7789/tvb.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻海外版
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻
+http://192.168.2.251:7789/tvb0.php?id=0&hq
+#http://192.168.2.251:7789/tvb.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻海外版
 
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",無綫财经
-http://192.168.2.251:7789/tvb.php?id=6
+http://192.168.2.251:7789/tvb0.php?id=2&hq
+#http://192.168.2.251:7789/tvb.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="有线财经" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="主力",有線財經資訊

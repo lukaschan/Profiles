@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视中文台" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="自用",凤凰中文
-https://live.goodiptv.club/api/sxg.php?id=test1_4000
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰卫视资讯台" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="自用",凤凰资讯
-https://live.goodiptv.club/api/sxg.php?id=test2_4000
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视香港台" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="自用",凤凰香港
 
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="自用",深圳卫视

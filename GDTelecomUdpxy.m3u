@@ -111,8 +111,6 @@ http://192.168.2.252:7788/rtp/239.77.0.27:5146
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",每日影院
-http://192.168.2.252:7788/rtp/239.253.43.94:5146
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="主力",4KUHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",欢笑剧场4K

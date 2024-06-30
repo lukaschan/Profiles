@@ -48,7 +48,7 @@ http://192.168.2.252:7788/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",广州新闻
 http://192.168.2.252:7788/rtp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="9999" tvg-name="ABC News" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="主力",ABC News
-
+http://192.168.2.251:5000/youtube/-mvUkiILTqI
 #EXTINF:-1 tvg-id="9999" tvg-name="NBC News" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="主力",NBC News
 
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=fox-live" group-title="主力",Fox Live
@@ -58,9 +58,9 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="https://www.nowtv.now.com/media/logo/323-wbg-e.png" group-title="主力",Sky News
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/322-wbg-c.png" group-title="主力",CNA
-http://192.168.2.251:7789/ytb.php?id=cna
+http://192.168.2.251:5000/youtube/XWq5kBlakcQ
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.nowtv.now.com/media/logo/327c-dbg-e.png" group-title="主力",France 24
-http://192.168.2.251:7789/ytb.php?id=f24
+http://192.168.2.251:5000/youtube/Ap-UM1O9RBU
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="主力",NHK WORLD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
@@ -72,7 +72,7 @@ http://192.168.2.251:7789/ytb.php?id=cti
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="主力",台视新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="主力",民视新闻
-http://192.168.2.251:7789/ytb.php?id=ftv
+http://192.168.2.251:5000/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="主力",爱上4K

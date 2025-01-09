@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="主力",凤凰中文
-
+https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="主力",凤凰资讯
-
+https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="主力",凤凰香港
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主力",CCTV5体育
@@ -103,11 +103,11 @@ http://192.168.22.252:7088/rtp/239.10.0.199:1025
 http://192.168.22.252:7088/rtp/239.11.0.128:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="主力",求索生活
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="文娱",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="主力",CHC高清电影
 http://192.168.22.252:7088/rtp/239.11.0.129:1025
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="文娱",CHC家庭电影
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="主力",CHC家庭电影
 
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="文娱",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="主力",CHC动作电影
 
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="主力",4KUHD
 
@@ -168,7 +168,7 @@ http://192.168.22.252:7088/rtp/239.10.0.131:1025
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.22.252:7088/rtp/239.10.0.183:1025
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://192.168.22.252:7088/rtp/239.10.0.49:1025
+http://192.168.22.252:7088/rtp/239.10.0.115:1025
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.22.252:7088/rtp/239.10.0.179:1025
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视

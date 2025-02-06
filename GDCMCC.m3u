@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="主力",凤凰中文
-#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="主力",凤凰资讯
-#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="主力",凤凰香港
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主力",CCTV5体育
@@ -24,11 +24,11 @@ http://192.168.22.252:7088/rtp/239.11.0.126:1025
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="主力",J2
 
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻
-#http://192.168.22.251:7789/tvb0.php?id=6
+#http://192.168.22.251:7789/tvb.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://ghproxy.com/github.com/lukaschan/Profiles/blob/main/Logo/TVBNews.jpg?raw=true" group-title="主力",無綫新闻海外版
 
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="主力",無綫财经
-#http://192.168.22.251:7789/tvb0.php?id=7
+#http://192.168.22.251:7789/tvb.php?id=7
 #EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="主力",有线新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="有线财经" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="主力",有線財經資訊
@@ -58,13 +58,13 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="	Sky News" tvg-logo="https://www.nowtv.now.com/media/logo/323-wbg-e.png" group-title="主力",Sky News
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/322-wbg-c.png" group-title="主力",CNA
-http://192.168.22.251:5000/youtube/XWq5kBlakcQ
+
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.nowtv.now.com/media/logo/327c-dbg-e.png" group-title="主力",France 24
-#http://192.168.22.251:5000/youtube/Ap-UM1O9RBU
+
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="主力",NHK WORLD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="主力",中天新闻
-#http://192.168.22.251:7789/ytb.php?id=cti
+
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="主力",东森LIVE
 
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="主力",中视新闻
@@ -72,7 +72,7 @@ http://192.168.22.251:5000/youtube/XWq5kBlakcQ
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="主力",台视新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="主力",民视新闻
-#http://192.168.22.251:5000/youtube/ylYJSBUgaMA
+
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="主力",寰宇新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="主力",爱上4K

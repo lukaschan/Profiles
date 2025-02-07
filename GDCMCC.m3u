@@ -160,7 +160,7 @@ http://192.168.22.252:7088/rtp/239.11.0.103:1025
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN Documentary
 http://192.168.22.252:7088/rtp/239.11.0.104:1025
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://192.168.22.252:7088/rtp/239.10.0.52:1025
+http://192.168.22.252:7088/rtp/239.20.0.92:3032
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://192.168.22.252:7088/rtp/239.10.0.131:1025
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视

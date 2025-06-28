@@ -37,6 +37,8 @@ http://192.168.22.252:7088/rtp/239.10.0.75:1025
 http://192.168.22.252:7088/rtp/239.11.0.170:1025
 #EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="主力",大湾区卫视
 http://192.168.22.252:7088/rtp/239.11.0.78:1025
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视4K
+http://192.168.22.252:7088/rtp/239.11.0.129:1025
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视
 http://192.168.22.252:7088/rtp/239.10.0.45:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="主力",广东经济科教
@@ -79,6 +81,8 @@ http://192.168.22.252:7088/rtp/239.10.0.244:1025
 http://192.168.22.252:7088/rtp/239.11.0.103:1025
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN Documentary
 http://192.168.22.252:7088/rtp/239.11.0.104:1025
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视4K
+http://192.168.22.252:7088/rtp/239.11.0.195:1025
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://192.168.22.252:7088/rtp/239.20.0.92:3032
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视

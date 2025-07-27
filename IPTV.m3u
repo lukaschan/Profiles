@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="主力",深圳卫视4K
 http://192.168.100.1:7088/rtp/239.11.0.195:1025
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://www.nowtv.now.com/media/logo/548-wbg-e.png" group-title="主力",凤凰中文
-http://bx.757888.xyz/api.php?id=fhzw
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://www.nowtv.now.com/media/logo/366-wbg-e.png" group-title="主力",凤凰资讯
 http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://www.nowtv.now.com/media/logo/367-wbg-c.png" group-title="主力",凤凰香港
-http://bx.757888.xyz/api.php?id=fhhk
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视4K
 http://192.168.100.1:7088/rtp/239.11.0.129:1025
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="主力",北京卫视4k
+http://192.168.100.1:7088/rtp/239.21.0.157:3972
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="主力",CCTV-4K
+http://192.168.100.1:7088/rtp/239.11.0.161:1025
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主力",CCTV5体育
 http://192.168.100.1:7088/rtp/239.10.0.102:1025
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="主力",CCTV5+体育赛事
@@ -23,8 +23,6 @@ http://192.168.100.1:7088/rtp/239.10.0.198:1025
 http://192.168.100.1:7088/rtp/239.11.0.139:1025
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="https://www.nowtv.now.com/media/logo/325-wbg-e.png" group-title="主力",Aljazeera TV
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="主力",CCTV-4K
-http://192.168.100.1:7088/rtp/239.11.0.161:1025
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
 http://192.168.100.1:7088/rtp/239.10.0.63:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="主力",广州综合
@@ -37,8 +35,6 @@ http://192.168.100.1:7088/rtp/239.11.0.141:1025
 http://192.168.100.1:7088/rtp/239.10.0.199:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="主力",求索记录
 http://192.168.100.1:7088/rtp/239.11.0.128:1025
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="主力",北京卫视4k
-http://192.168.100.1:7088/rtp/239.21.0.157:3972
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="主力",广东综艺4k
 http://192.168.100.1:7088/rtp/239.10.0.75:1025
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="https://upload.112114.xyz/logo/南国都市.png" group-title="主力",南国都市4k

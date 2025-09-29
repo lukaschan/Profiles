@@ -3,10 +3,22 @@
 http://192.168.10.1:7088/rtp/239.11.0.195:1025
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东卫视4K
 http://192.168.10.1:7088/rtp/239.11.0.194:1025
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="主力",北京卫视4k
-http://192.168.10.1:7088/rtp/239.11.0.192:1025
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="主力",湖南卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.200:1025
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="主力",江苏卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.201:1025
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="主力",北京卫视4k
+http://192.168.10.1:7088/rtp/239.11.0.191:1025
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="主力",东方卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.203:1025
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="主力",浙江卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.202:1025
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="主力",CCTV-4K
 http://192.168.10.1:7088/rtp/239.11.0.161:1025
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="主力",四川卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.204:1025
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="主力",山东卫视4K
+http://192.168.10.1:7088/rtp/239.11.0.205:1025
 #EXTINF:-1 tvg-id="33" tvg-name="广东4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="主力",广东4K
 http://192.168.10.1:7088/rtp/239.10.0.75:1025
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="主力",CCTV5体育

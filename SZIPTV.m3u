@@ -28,7 +28,7 @@ http://192.168.10.1:7088/rtp/239.10.0.213:1025
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="主力",广东体育
 http://192.168.10.1:7088/rtp/239.10.0.47:1025
 #EXTINF:-1 tvg-id="1987" tvg-name="伍★體育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="主力",伍★體育
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+http://[2409:8087:1e02:20::2e]/PLTV/11/224/3221225732/1.m3u8?$3M1920x1080
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="主力",CCTV16奥林匹克
 http://192.168.10.1:7088/rtp/239.11.0.126:1025
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="主力",CCTV13新闻

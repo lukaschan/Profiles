@@ -35,8 +35,6 @@ http://192.168.22.252:7088/rtp/239.10.0.75:1025
 http://192.168.22.252:7088/rtp/239.10.0.198:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="主力",广州新闻
 http://192.168.22.252:7088/rtp/239.11.0.139:1025
-#EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="https://www.nowtv.now.com/media/logo/325-wbg-e.png" group-title="主力",Aljazeera TV
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="主力",广东珠江
 http://192.168.22.252:7088/rtp/239.10.0.63:1025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="主力",广州综合

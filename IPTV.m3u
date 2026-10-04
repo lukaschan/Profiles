@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.22.252:8888/t.xml"
+#EXTM3U x-tvg-url="http://192.168.22.252:8888/t.xml.gz"
 #EXTINF:-1 tvg-id="深圳卫视4k超25p" tvg-name="深圳卫视4k超高清25p" tvg-logo="http://192.168.22.252:8888/pics/micro-picture/2025/0627/12_de3cf26a-21db-4914-be32-dc25eea68bf3.png" group-title="主力",深圳卫视4k
 http://192.168.100.1:7088/rtp/239.11.0.195:1025
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻高清" tvg-logo="http://183.235.11.40:8081/pics/micro-picture/channelNew/02000006000000052022011999000002.png" group-title="主力",广州新闻高清
